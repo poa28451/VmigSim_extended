@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="no_usage/" kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/vmigsim_lib/cloudsim-3.0.3.jar"/>
+	<classpathentry kind="lib" path="dist/vmigsim_lib/jFuzzyLogic.jar"/>
+	<classpathentry kind="lib" path="dist/vmigsim_lib/json-20141113.jar"/>
+	<classpathentry kind="lib" path="dist/vmigsim.jar"/>
+	<classpathentry kind="lib" path="lib/cloudsim-3.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/jFuzzyLogic.jar"/>
+	<classpathentry kind="lib" path="lib/json-20141113.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

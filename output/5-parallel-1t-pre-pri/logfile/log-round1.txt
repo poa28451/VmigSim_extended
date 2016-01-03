@@ -1,0 +1,1010 @@
+Initialising...
+Starting CloudSim version 3.0
+Datacenter_0 is starting...
+Datacenter_1 is starting...
+Broker1 is starting...
+Entities started.
+0.0: Broker1: Cloud Resource List received with 2 resource(s)
+0.1: Broker1: VM #370 has been created in Source DC, Host #0
+0.1: Broker1: VM #484 has been created in Source DC, Host #1
+0.1: Broker1: VM #162 has been created in Source DC, Host #2
+0.1: Broker1: VM #363 has been created in Source DC, Host #3
+0.1: Broker1: VM #449 has been created in Source DC, Host #4
+0.1: Broker1: VM #598 has been created in Source DC, Host #5
+0.1: Broker1: VM #328 has been created in Source DC, Host #6
+0.1: Broker1: VM #335 has been created in Source DC, Host #7
+0.1: Broker1: VM #284 has been created in Source DC, Host #8
+0.1: Broker1: VM #56 has been created in Source DC, Host #9
+0.1: Broker1: VM #359 has been created in Source DC, Host #10
+0.1: Broker1: VM #558 has been created in Source DC, Host #11
+0.1: Broker1: VM #390 has been created in Source DC, Host #12
+0.1: Broker1: VM #143 has been created in Source DC, Host #13
+0.1: Broker1: VM #530 has been created in Source DC, Host #14
+0.1: Broker1: VM #444 has been created in Source DC, Host #15
+0.1: Broker1: VM #474 has been created in Source DC, Host #16
+0.1: Broker1: VM #403 has been created in Source DC, Host #17
+0.1: Broker1: VM #43 has been created in Source DC, Host #18
+0.1: Broker1: VM #210 has been created in Source DC, Host #19
+0.1: Broker1: VM #299 has been created in Source DC, Host #20
+0.1: Broker1: VM #130 has been created in Source DC, Host #21
+0.1: Broker1: VM #102 has been created in Source DC, Host #22
+0.1: Broker1: VM #491 has been created in Source DC, Host #23
+0.1: Broker1: VM #80 has been created in Source DC, Host #24
+0.1: Broker1: VM #525 has been created in Source DC, Host #25
+0.1: Broker1: VM #234 has been created in Source DC, Host #26
+0.1: Broker1: VM #150 has been created in Source DC, Host #27
+0.1: Broker1: VM #311 has been created in Source DC, Host #28
+0.1: Broker1: VM #258 has been created in Source DC, Host #29
+0.1: Broker1: VM #73 has been created in Source DC, Host #30
+0.1: Broker1: VM #195 has been created in Source DC, Host #31
+0.1: Broker1: VM #364 has been created in Source DC, Host #32
+0.1: Broker1: VM #50 has been created in Source DC, Host #33
+0.1: Broker1: VM #71 has been created in Source DC, Host #34
+0.1: Broker1: VM #545 has been created in Source DC, Host #35
+0.1: Broker1: VM #133 has been created in Source DC, Host #36
+0.1: Broker1: VM #392 has been created in Source DC, Host #37
+0.1: Broker1: VM #482 has been created in Source DC, Host #38
+0.1: Broker1: VM #129 has been created in Source DC, Host #39
+0.1: Broker1: VM #156 has been created in Source DC, Host #40
+0.1: Broker1: VM #171 has been created in Source DC, Host #41
+0.1: Broker1: VM #286 has been created in Source DC, Host #42
+0.1: Broker1: VM #90 has been created in Source DC, Host #43
+0.1: Broker1: VM #505 has been created in Source DC, Host #44
+0.1: Broker1: VM #144 has been created in Source DC, Host #45
+0.1: Broker1: VM #503 has been created in Source DC, Host #46
+0.1: Broker1: VM #388 has been created in Source DC, Host #47
+0.1: Broker1: VM #167 has been created in Source DC, Host #48
+0.1: Broker1: VM #207 has been created in Source DC, Host #49
+0.1: Broker1: VM #124 has been created in Source DC, Host #50
+0.1: Broker1: VM #326 has been created in Source DC, Host #51
+0.1: Broker1: VM #104 has been created in Source DC, Host #52
+0.1: Broker1: VM #445 has been created in Source DC, Host #53
+0.1: Broker1: VM #470 has been created in Source DC, Host #54
+0.1: Broker1: VM #399 has been created in Source DC, Host #55
+0.1: Broker1: VM #589 has been created in Source DC, Host #56
+0.1: Broker1: VM #135 has been created in Source DC, Host #57
+0.1: Broker1: VM #65 has been created in Source DC, Host #58
+0.1: Broker1: VM #118 has been created in Source DC, Host #59
+0.1: Broker1: VM #550 has been created in Source DC, Host #60
+0.1: Broker1: VM #499 has been created in Source DC, Host #61
+0.1: Broker1: VM #411 has been created in Source DC, Host #62
+0.1: Broker1: VM #197 has been created in Source DC, Host #63
+0.1: Broker1: VM #176 has been created in Source DC, Host #64
+0.1: Broker1: VM #99 has been created in Source DC, Host #65
+0.1: Broker1: VM #580 has been created in Source DC, Host #66
+0.1: Broker1: VM #166 has been created in Source DC, Host #67
+0.1: Broker1: VM #1 has been created in Source DC, Host #68
+0.1: Broker1: VM #289 has been created in Source DC, Host #69
+0.1: Broker1: VM #468 has been created in Source DC, Host #70
+0.1: Broker1: VM #168 has been created in Source DC, Host #71
+0.1: Broker1: VM #573 has been created in Source DC, Host #72
+0.1: Broker1: VM #268 has been created in Source DC, Host #73
+0.1: Broker1: VM #342 has been created in Source DC, Host #74
+0.1: Broker1: VM #380 has been created in Source DC, Host #75
+0.1: Broker1: VM #163 has been created in Source DC, Host #76
+0.1: Broker1: VM #165 has been created in Source DC, Host #77
+0.1: Broker1: VM #239 has been created in Source DC, Host #78
+0.1: Broker1: VM #247 has been created in Source DC, Host #79
+0.1: Broker1: VM #518 has been created in Source DC, Host #80
+0.1: Broker1: VM #271 has been created in Source DC, Host #81
+0.1: Broker1: VM #473 has been created in Source DC, Host #82
+0.1: Broker1: VM #127 has been created in Source DC, Host #83
+0.1: Broker1: VM #516 has been created in Source DC, Host #84
+0.1: Broker1: VM #407 has been created in Source DC, Host #85
+0.1: Broker1: VM #214 has been created in Source DC, Host #86
+0.1: Broker1: VM #277 has been created in Source DC, Host #87
+0.1: Broker1: VM #373 has been created in Source DC, Host #88
+0.1: Broker1: VM #226 has been created in Source DC, Host #89
+0.1: Broker1: VM #38 has been created in Source DC, Host #90
+0.1: Broker1: VM #405 has been created in Source DC, Host #91
+0.1: Broker1: VM #181 has been created in Source DC, Host #92
+0.1: Broker1: VM #351 has been created in Source DC, Host #93
+0.1: Broker1: VM #69 has been created in Source DC, Host #94
+0.1: Broker1: VM #458 has been created in Source DC, Host #95
+0.1: Broker1: VM #490 has been created in Source DC, Host #96
+0.1: Broker1: VM #137 has been created in Source DC, Host #97
+0.1: Broker1: VM #415 has been created in Source DC, Host #98
+0.1: Broker1: VM #344 has been created in Source DC, Host #99
+0.1: Broker1: VM #549 has been created in Source DC, Host #100
+0.1: Broker1: VM #27 has been created in Source DC, Host #101
+0.1: Broker1: VM #306 has been created in Source DC, Host #102
+0.1: Broker1: VM #58 has been created in Source DC, Host #103
+0.1: Broker1: VM #147 has been created in Source DC, Host #104
+0.1: Broker1: VM #310 has been created in Source DC, Host #105
+0.1: Broker1: VM #204 has been created in Source DC, Host #106
+0.1: Broker1: VM #429 has been created in Source DC, Host #107
+0.1: Broker1: VM #93 has been created in Source DC, Host #108
+0.1: Broker1: VM #599 has been created in Source DC, Host #109
+0.1: Broker1: VM #419 has been created in Source DC, Host #110
+0.1: Broker1: VM #265 has been created in Source DC, Host #111
+0.1: Broker1: VM #414 has been created in Source DC, Host #112
+0.1: Broker1: VM #266 has been created in Source DC, Host #113
+0.1: Broker1: VM #138 has been created in Source DC, Host #114
+0.1: Broker1: VM #396 has been created in Source DC, Host #115
+0.1: Broker1: VM #60 has been created in Source DC, Host #116
+0.1: Broker1: VM #78 has been created in Source DC, Host #117
+0.1: Broker1: VM #542 has been created in Source DC, Host #118
+0.1: Broker1: VM #350 has been created in Source DC, Host #119
+0.1: Broker1: VM #24 has been created in Source DC, Host #120
+0.1: Broker1: VM #464 has been created in Source DC, Host #121
+0.1: Broker1: VM #572 has been created in Source DC, Host #122
+0.1: Broker1: VM #428 has been created in Source DC, Host #123
+0.1: Broker1: VM #295 has been created in Source DC, Host #124
+0.1: Broker1: VM #232 has been created in Source DC, Host #125
+0.1: Broker1: VM #200 has been created in Source DC, Host #126
+0.1: Broker1: VM #194 has been created in Source DC, Host #127
+0.1: Broker1: VM #19 has been created in Source DC, Host #128
+0.1: Broker1: VM #588 has been created in Source DC, Host #129
+0.1: Broker1: VM #400 has been created in Source DC, Host #130
+0.1: Broker1: VM #519 has been created in Source DC, Host #131
+0.1: Broker1: VM #496 has been created in Source DC, Host #132
+0.1: Broker1: VM #497 has been created in Source DC, Host #133
+0.1: Broker1: VM #554 has been created in Source DC, Host #134
+0.1: Broker1: VM #294 has been created in Source DC, Host #135
+0.1: Broker1: VM #92 has been created in Source DC, Host #136
+0.1: Broker1: VM #402 has been created in Source DC, Host #137
+0.1: Broker1: VM #324 has been created in Source DC, Host #138
+0.1: Broker1: VM #121 has been created in Source DC, Host #139
+0.1: Broker1: VM #279 has been created in Source DC, Host #140
+0.1: Broker1: VM #329 has been created in Source DC, Host #141
+0.1: Broker1: VM #425 has been created in Source DC, Host #142
+0.1: Broker1: VM #436 has been created in Source DC, Host #143
+0.1: Broker1: VM #227 has been created in Source DC, Host #144
+0.1: Broker1: VM #417 has been created in Source DC, Host #145
+0.1: Broker1: VM #593 has been created in Source DC, Host #146
+0.1: Broker1: VM #62 has been created in Source DC, Host #147
+0.1: Broker1: VM #51 has been created in Source DC, Host #148
+0.1: Broker1: VM #273 has been created in Source DC, Host #149
+0.1: Broker1: VM #438 has been created in Source DC, Host #0
+0.1: Broker1: VM #100 has been created in Source DC, Host #1
+0.1: Broker1: VM #139 has been created in Source DC, Host #2
+0.1: Broker1: VM #488 has been created in Source DC, Host #3
+0.1: Broker1: VM #347 has been created in Source DC, Host #4
+0.1: Broker1: VM #426 has been created in Source DC, Host #5
+0.1: Broker1: VM #236 has been created in Source DC, Host #6
+0.1: Broker1: VM #582 has been created in Source DC, Host #7
+0.1: Broker1: VM #229 has been created in Source DC, Host #8
+0.1: Broker1: VM #463 has been created in Source DC, Host #9
+0.1: Broker1: VM #569 has been created in Source DC, Host #10
+0.1: Broker1: VM #513 has been created in Source DC, Host #11
+0.1: Broker1: VM #278 has been created in Source DC, Host #12
+0.1: Broker1: VM #21 has been created in Source DC, Host #13
+0.1: Broker1: VM #7 has been created in Source DC, Host #14
+0.1: Broker1: VM #559 has been created in Source DC, Host #15
+0.1: Broker1: VM #590 has been created in Source DC, Host #16
+0.1: Broker1: VM #48 has been created in Source DC, Host #17
+0.1: Broker1: VM #459 has been created in Source DC, Host #18
+0.1: Broker1: VM #17 has been created in Source DC, Host #19
+0.1: Broker1: VM #338 has been created in Source DC, Host #20
+0.1: Broker1: VM #270 has been created in Source DC, Host #21
+0.1: Broker1: VM #485 has been created in Source DC, Host #22
+0.1: Broker1: VM #434 has been created in Source DC, Host #23
+0.1: Broker1: VM #88 has been created in Source DC, Host #24
+0.1: Broker1: VM #366 has been created in Source DC, Host #25
+0.1: Broker1: VM #506 has been created in Source DC, Host #26
+0.1: Broker1: VM #155 has been created in Source DC, Host #27
+0.1: Broker1: VM #106 has been created in Source DC, Host #28
+0.1: Broker1: VM #267 has been created in Source DC, Host #29
+0.1: Broker1: VM #316 has been created in Source DC, Host #30
+0.1: Broker1: VM #260 has been created in Source DC, Host #31
+0.1: Broker1: VM #116 has been created in Source DC, Host #32
+0.1: Broker1: VM #114 has been created in Source DC, Host #33
+0.1: Broker1: VM #18 has been created in Source DC, Host #34
+0.1: Broker1: VM #440 has been created in Source DC, Host #35
+0.1: Broker1: VM #70 has been created in Source DC, Host #36
+0.1: Broker1: VM #510 has been created in Source DC, Host #37
+0.1: Broker1: VM #281 has been created in Source DC, Host #38
+0.1: Broker1: VM #152 has been created in Source DC, Host #39
+0.1: Broker1: VM #46 has been created in Source DC, Host #40
+0.1: Broker1: VM #383 has been created in Source DC, Host #41
+0.1: Broker1: VM #280 has been created in Source DC, Host #42
+0.1: Broker1: VM #142 has been created in Source DC, Host #43
+0.1: Broker1: VM #356 has been created in Source DC, Host #44
+0.1: Broker1: VM #276 has been created in Source DC, Host #45
+0.1: Broker1: VM #122 has been created in Source DC, Host #46
+0.1: Broker1: VM #172 has been created in Source DC, Host #47
+0.1: Broker1: VM #524 has been created in Source DC, Host #48
+0.1: Broker1: VM #564 has been created in Source DC, Host #49
+0.1: Broker1: VM #401 has been created in Source DC, Host #50
+0.1: Broker1: VM #406 has been created in Source DC, Host #51
+0.1: Broker1: VM #337 has been created in Source DC, Host #52
+0.1: Broker1: VM #110 has been created in Source DC, Host #53
+0.1: Broker1: VM #22 has been created in Source DC, Host #54
+0.1: Broker1: VM #557 has been created in Source DC, Host #55
+0.1: Broker1: VM #83 has been created in Source DC, Host #56
+0.1: Broker1: VM #367 has been created in Source DC, Host #57
+0.1: Broker1: VM #462 has been created in Source DC, Host #58
+0.1: Broker1: VM #537 has been created in Source DC, Host #59
+0.1: Broker1: VM #161 has been created in Source DC, Host #60
+0.1: Broker1: VM #301 has been created in Source DC, Host #61
+0.1: Broker1: VM #16 has been created in Source DC, Host #62
+0.1: Broker1: VM #509 has been created in Source DC, Host #63
+0.1: Broker1: VM #23 has been created in Source DC, Host #64
+0.1: Broker1: VM #275 has been created in Source DC, Host #65
+0.1: Broker1: VM #566 has been created in Source DC, Host #66
+0.1: Broker1: VM #374 has been created in Source DC, Host #67
+0.1: Broker1: VM #4 has been created in Source DC, Host #68
+0.1: Broker1: VM #520 has been created in Source DC, Host #69
+0.1: Broker1: VM #319 has been created in Source DC, Host #70
+0.1: Broker1: VM #107 has been created in Source DC, Host #71
+0.1: Broker1: VM #386 has been created in Source DC, Host #72
+0.1: Broker1: VM #555 has been created in Source DC, Host #73
+0.1: Broker1: VM #42 has been created in Source DC, Host #74
+0.1: Broker1: VM #547 has been created in Source DC, Host #75
+0.1: Broker1: VM #184 has been created in Source DC, Host #76
+0.1: Broker1: VM #217 has been created in Source DC, Host #77
+0.1: Broker1: VM #49 has been created in Source DC, Host #78
+0.1: Broker1: VM #290 has been created in Source DC, Host #79
+0.1: Broker1: VM #478 has been created in Source DC, Host #80
+0.1: Broker1: VM #391 has been created in Source DC, Host #81
+0.1: Broker1: VM #44 has been created in Source DC, Host #82
+0.1: Broker1: VM #211 has been created in Source DC, Host #83
+0.1: Broker1: VM #86 has been created in Source DC, Host #84
+0.1: Broker1: VM #515 has been created in Source DC, Host #85
+0.1: Broker1: VM #26 has been created in Source DC, Host #86
+0.1: Broker1: VM #531 has been created in Source DC, Host #87
+0.1: Broker1: VM #202 has been created in Source DC, Host #88
+0.1: Broker1: VM #502 has been created in Source DC, Host #89
+0.1: Broker1: VM #422 has been created in Source DC, Host #90
+0.1: Broker1: VM #193 has been created in Source DC, Host #91
+0.1: Broker1: VM #233 has been created in Source DC, Host #92
+0.1: Broker1: VM #191 has been created in Source DC, Host #93
+0.1: Broker1: VM #283 has been created in Source DC, Host #94
+0.1: Broker1: VM #416 has been created in Source DC, Host #95
+0.1: Broker1: VM #178 has been created in Source DC, Host #96
+0.1: Broker1: VM #291 has been created in Source DC, Host #97
+0.1: Broker1: VM #471 has been created in Source DC, Host #98
+0.1: Broker1: VM #427 has been created in Source DC, Host #99
+0.1: Broker1: VM #111 has been created in Source DC, Host #100
+0.1: Broker1: VM #375 has been created in Source DC, Host #101
+0.1: Broker1: VM #220 has been created in Source DC, Host #102
+0.1: Broker1: VM #241 has been created in Source DC, Host #103
+0.1: Broker1: VM #346 has been created in Source DC, Host #104
+0.1: Broker1: VM #54 has been created in Source DC, Host #105
+0.1: Broker1: VM #35 has been created in Source DC, Host #106
+0.1: Broker1: VM #126 has been created in Source DC, Host #107
+0.1: Broker1: VM #334 has been created in Source DC, Host #108
+0.1: Broker1: VM #134 has been created in Source DC, Host #109
+0.1: Broker1: VM #475 has been created in Source DC, Host #110
+0.1: Broker1: VM #262 has been created in Source DC, Host #111
+0.1: Broker1: VM #84 has been created in Source DC, Host #112
+0.1: Broker1: VM #303 has been created in Source DC, Host #113
+0.1: Broker1: VM #288 has been created in Source DC, Host #114
+0.1: Broker1: VM #377 has been created in Source DC, Host #115
+0.1: Broker1: VM #454 has been created in Source DC, Host #116
+0.1: Broker1: VM #37 has been created in Source DC, Host #117
+0.1: Broker1: VM #597 has been created in Source DC, Host #118
+0.1: Broker1: VM #76 has been created in Source DC, Host #119
+0.1: Broker1: VM #317 has been created in Source DC, Host #120
+0.1: Broker1: VM #431 has been created in Source DC, Host #121
+0.1: Broker1: VM #507 has been created in Source DC, Host #122
+0.1: Broker1: VM #47 has been created in Source DC, Host #123
+0.1: Broker1: VM #529 has been created in Source DC, Host #124
+0.1: Broker1: VM #72 has been created in Source DC, Host #125
+0.1: Broker1: VM #517 has been created in Source DC, Host #126
+0.1: Broker1: VM #203 has been created in Source DC, Host #127
+0.1: Broker1: VM #450 has been created in Source DC, Host #128
+0.1: Broker1: VM #340 has been created in Source DC, Host #129
+0.1: Broker1: VM #541 has been created in Source DC, Host #130
+0.1: Broker1: VM #9 has been created in Source DC, Host #131
+0.1: Broker1: VM #435 has been created in Source DC, Host #132
+0.1: Broker1: VM #6 has been created in Source DC, Host #133
+0.1: Broker1: VM #313 has been created in Source DC, Host #134
+0.1: Broker1: VM #381 has been created in Source DC, Host #135
+0.1: Broker1: VM #585 has been created in Source DC, Host #136
+0.1: Broker1: VM #199 has been created in Source DC, Host #137
+0.1: Broker1: VM #115 has been created in Source DC, Host #138
+0.1: Broker1: VM #540 has been created in Source DC, Host #139
+0.1: Broker1: VM #250 has been created in Source DC, Host #140
+0.1: Broker1: VM #59 has been created in Source DC, Host #141
+0.1: Broker1: VM #182 has been created in Source DC, Host #142
+0.1: Broker1: VM #242 has been created in Source DC, Host #143
+0.1: Broker1: VM #28 has been created in Source DC, Host #144
+0.1: Broker1: VM #8 has been created in Source DC, Host #145
+0.1: Broker1: VM #141 has been created in Source DC, Host #146
+0.1: Broker1: VM #245 has been created in Source DC, Host #147
+0.1: Broker1: VM #424 has been created in Source DC, Host #148
+0.1: Broker1: VM #512 has been created in Source DC, Host #149
+0.1: Broker1: VM #533 has been created in Source DC, Host #0
+0.1: Broker1: VM #218 has been created in Source DC, Host #1
+0.1: Broker1: VM #544 has been created in Source DC, Host #2
+0.1: Broker1: VM #330 has been created in Source DC, Host #3
+0.1: Broker1: VM #79 has been created in Source DC, Host #4
+0.1: Broker1: VM #494 has been created in Source DC, Host #5
+0.1: Broker1: VM #169 has been created in Source DC, Host #6
+0.1: Broker1: VM #36 has been created in Source DC, Host #7
+0.1: Broker1: VM #579 has been created in Source DC, Host #8
+0.1: Broker1: VM #272 has been created in Source DC, Host #9
+0.1: Broker1: VM #571 has been created in Source DC, Host #10
+0.1: Broker1: VM #188 has been created in Source DC, Host #11
+0.1: Broker1: VM #105 has been created in Source DC, Host #12
+0.1: Broker1: VM #287 has been created in Source DC, Host #13
+0.1: Broker1: VM #151 has been created in Source DC, Host #14
+0.1: Broker1: VM #14 has been created in Source DC, Host #15
+0.1: Broker1: VM #131 has been created in Source DC, Host #16
+0.1: Broker1: VM #97 has been created in Source DC, Host #17
+0.1: Broker1: VM #206 has been created in Source DC, Host #18
+0.1: Broker1: VM #527 has been created in Source DC, Host #19
+0.1: Broker1: VM #31 has been created in Source DC, Host #20
+0.1: Broker1: VM #447 has been created in Source DC, Host #21
+0.1: Broker1: VM #285 has been created in Source DC, Host #22
+0.1: Broker1: VM #119 has been created in Source DC, Host #23
+0.1: Broker1: VM #183 has been created in Source DC, Host #24
+0.1: Broker1: VM #354 has been created in Source DC, Host #25
+0.1: Broker1: VM #67 has been created in Source DC, Host #26
+0.1: Broker1: VM #368 has been created in Source DC, Host #27
+0.1: Broker1: VM #446 has been created in Source DC, Host #28
+0.1: Broker1: VM #568 has been created in Source DC, Host #29
+0.1: Broker1: VM #11 has been created in Source DC, Host #30
+0.1: Broker1: VM #592 has been created in Source DC, Host #31
+0.1: Broker1: VM #489 has been created in Source DC, Host #32
+0.1: Broker1: VM #89 has been created in Source DC, Host #33
+0.1: Broker1: VM #394 has been created in Source DC, Host #34
+0.1: Broker1: VM #466 has been created in Source DC, Host #35
+0.1: Broker1: VM #309 has been created in Source DC, Host #36
+0.1: Broker1: VM #567 has been created in Source DC, Host #37
+0.1: Broker1: VM #117 has been created in Source DC, Host #38
+0.1: Broker1: VM #327 has been created in Source DC, Host #39
+0.1: Broker1: VM #409 has been created in Source DC, Host #40
+0.1: Broker1: VM #32 has been created in Source DC, Host #41
+0.1: Broker1: VM #128 has been created in Source DC, Host #42
+0.1: Broker1: VM #145 has been created in Source DC, Host #43
+0.1: Broker1: VM #235 has been created in Source DC, Host #44
+0.1: Broker1: VM #461 has been created in Source DC, Host #45
+0.1: Broker1: VM #175 has been created in Source DC, Host #46
+0.1: Broker1: VM #252 has been created in Source DC, Host #47
+0.1: Broker1: VM #343 has been created in Source DC, Host #48
+0.1: Broker1: VM #159 has been created in Source DC, Host #49
+0.1: Broker1: VM #29 has been created in Source DC, Host #50
+0.1: Broker1: VM #321 has been created in Source DC, Host #51
+0.1: Broker1: VM #504 has been created in Source DC, Host #52
+0.1: Broker1: VM #596 has been created in Source DC, Host #53
+0.1: Broker1: VM #371 has been created in Source DC, Host #54
+0.1: Broker1: VM #45 has been created in Source DC, Host #55
+0.1: Broker1: VM #498 has been created in Source DC, Host #56
+0.1: Broker1: VM #587 has been created in Source DC, Host #57
+0.1: Broker1: VM #397 has been created in Source DC, Host #58
+0.1: Broker1: VM #456 has been created in Source DC, Host #59
+0.1: Broker1: VM #412 has been created in Source DC, Host #60
+0.1: Broker1: VM #312 has been created in Source DC, Host #61
+0.1: Broker1: VM #548 has been created in Source DC, Host #62
+0.1: Broker1: VM #170 has been created in Source DC, Host #63
+0.1: Broker1: VM #179 has been created in Source DC, Host #64
+0.1: Broker1: VM #576 has been created in Source DC, Host #65
+0.1: Broker1: VM #149 has been created in Source DC, Host #66
+0.1: Broker1: VM #552 has been created in Source DC, Host #67
+0.1: Broker1: VM #213 has been created in Source DC, Host #68
+0.1: Broker1: VM #91 has been created in Source DC, Host #69
+0.1: Broker1: VM #148 has been created in Source DC, Host #70
+0.1: Broker1: VM #55 has been created in Source DC, Host #71
+0.1: Broker1: VM #423 has been created in Source DC, Host #72
+0.1: Broker1: VM #208 has been created in Source DC, Host #73
+0.1: Broker1: VM #521 has been created in Source DC, Host #74
+0.1: Broker1: VM #331 has been created in Source DC, Host #75
+0.1: Broker1: VM #560 has been created in Source DC, Host #76
+0.1: Broker1: VM #477 has been created in Source DC, Host #77
+0.1: Broker1: VM #387 has been created in Source DC, Host #78
+0.1: Broker1: VM #222 has been created in Source DC, Host #79
+0.1: Broker1: VM #514 has been created in Source DC, Host #80
+0.1: Broker1: VM #237 has been created in Source DC, Host #81
+0.1: Broker1: VM #40 has been created in Source DC, Host #82
+0.1: Broker1: VM #231 has been created in Source DC, Host #83
+0.1: Broker1: VM #174 has been created in Source DC, Host #84
+0.1: Broker1: VM #480 has been created in Source DC, Host #85
+0.1: Broker1: VM #452 has been created in Source DC, Host #86
+0.1: Broker1: VM #372 has been created in Source DC, Host #87
+0.1: Broker1: VM #257 has been created in Source DC, Host #88
+0.1: Broker1: VM #173 has been created in Source DC, Host #89
+0.1: Broker1: VM #304 has been created in Source DC, Host #90
+0.1: Broker1: VM #563 has been created in Source DC, Host #91
+0.1: Broker1: VM #382 has been created in Source DC, Host #92
+0.1: Broker1: VM #595 has been created in Source DC, Host #93
+0.1: Broker1: VM #68 has been created in Source DC, Host #94
+0.1: Broker1: VM #333 has been created in Source DC, Host #95
+0.1: Broker1: VM #190 has been created in Source DC, Host #96
+0.1: Broker1: VM #469 has been created in Source DC, Host #97
+0.1: Broker1: VM #441 has been created in Source DC, Host #98
+0.1: Broker1: VM #546 has been created in Source DC, Host #99
+0.1: Broker1: VM #253 has been created in Source DC, Host #100
+0.1: Broker1: VM #420 has been created in Source DC, Host #101
+0.1: Broker1: VM #325 has been created in Source DC, Host #102
+0.1: Broker1: VM #64 has been created in Source DC, Host #103
+0.1: Broker1: VM #77 has been created in Source DC, Host #104
+0.1: Broker1: VM #395 has been created in Source DC, Host #105
+0.1: Broker1: VM #74 has been created in Source DC, Host #106
+0.1: Broker1: VM #248 has been created in Source DC, Host #107
+0.1: Broker1: VM #292 has been created in Source DC, Host #108
+0.1: Broker1: VM #476 has been created in Source DC, Host #109
+0.1: Broker1: VM #314 has been created in Source DC, Host #110
+0.1: Broker1: VM #180 has been created in Source DC, Host #111
+0.1: Broker1: VM #465 has been created in Source DC, Host #112
+0.1: Broker1: VM #238 has been created in Source DC, Host #113
+0.1: Broker1: VM #98 has been created in Source DC, Host #114
+0.1: Broker1: VM #389 has been created in Source DC, Host #115
+0.1: Broker1: VM #154 has been created in Source DC, Host #116
+0.1: Broker1: VM #223 has been created in Source DC, Host #117
+0.1: Broker1: VM #553 has been created in Source DC, Host #118
+0.1: Broker1: VM #101 has been created in Source DC, Host #119
+0.1: Broker1: VM #501 has been created in Source DC, Host #120
+0.1: Broker1: VM #305 has been created in Source DC, Host #121
+0.1: Broker1: VM #261 has been created in Source DC, Host #122
+0.1: Broker1: VM #385 has been created in Source DC, Host #123
+0.1: Broker1: VM #224 has been created in Source DC, Host #124
+0.1: Broker1: VM #269 has been created in Source DC, Host #125
+0.1: Broker1: VM #5 has been created in Source DC, Host #126
+0.1: Broker1: VM #437 has been created in Source DC, Host #127
+0.1: Broker1: VM #95 has been created in Source DC, Host #128
+0.1: Broker1: VM #551 has been created in Source DC, Host #129
+0.1: Broker1: VM #251 has been created in Source DC, Host #130
+0.1: Broker1: VM #460 has been created in Source DC, Host #131
+0.1: Broker1: VM #225 has been created in Source DC, Host #132
+0.1: Broker1: VM #30 has been created in Source DC, Host #133
+0.1: Broker1: VM #298 has been created in Source DC, Host #134
+0.1: Broker1: VM #369 has been created in Source DC, Host #135
+0.1: Broker1: VM #215 has been created in Source DC, Host #136
+0.1: Broker1: VM #296 has been created in Source DC, Host #137
+0.1: Broker1: VM #345 has been created in Source DC, Host #138
+0.1: Broker1: VM #132 has been created in Source DC, Host #139
+0.1: Broker1: VM #120 has been created in Source DC, Host #140
+0.1: Broker1: VM #339 has been created in Source DC, Host #141
+0.1: Broker1: VM #393 has been created in Source DC, Host #142
+0.1: Broker1: VM #282 has been created in Source DC, Host #143
+0.1: Broker1: VM #362 has been created in Source DC, Host #144
+0.1: Broker1: VM #177 has been created in Source DC, Host #145
+0.1: Broker1: VM #323 has been created in Source DC, Host #146
+0.1: Broker1: VM #201 has been created in Source DC, Host #147
+0.1: Broker1: VM #293 has been created in Source DC, Host #148
+0.1: Broker1: VM #2 has been created in Source DC, Host #149
+0.1: Broker1: VM #586 has been created in Source DC, Host #0
+0.1: Broker1: VM #94 has been created in Source DC, Host #1
+0.1: Broker1: VM #534 has been created in Source DC, Host #2
+0.1: Broker1: VM #243 has been created in Source DC, Host #3
+0.1: Broker1: VM #522 has been created in Source DC, Host #4
+0.1: Broker1: VM #457 has been created in Source DC, Host #5
+0.1: Broker1: VM #158 has been created in Source DC, Host #6
+0.1: Broker1: VM #140 has been created in Source DC, Host #7
+0.1: Broker1: VM #112 has been created in Source DC, Host #8
+0.1: Broker1: VM #526 has been created in Source DC, Host #9
+0.1: Broker1: VM #523 has been created in Source DC, Host #10
+0.1: Broker1: VM #146 has been created in Source DC, Host #11
+0.1: Broker1: VM #57 has been created in Source DC, Host #12
+0.1: Broker1: VM #15 has been created in Source DC, Host #13
+0.1: Broker1: VM #472 has been created in Source DC, Host #14
+0.1: Broker1: VM #442 has been created in Source DC, Host #15
+0.1: Broker1: VM #577 has been created in Source DC, Host #16
+0.1: Broker1: VM #432 has been created in Source DC, Host #17
+0.1: Broker1: VM #349 has been created in Source DC, Host #18
+0.1: Broker1: VM #108 has been created in Source DC, Host #19
+0.1: Broker1: VM #357 has been created in Source DC, Host #20
+0.1: Broker1: VM #318 has been created in Source DC, Host #21
+0.1: Broker1: VM #61 has been created in Source DC, Host #22
+0.1: Broker1: VM #307 has been created in Source DC, Host #23
+0.1: Broker1: VM #358 has been created in Source DC, Host #24
+0.1: Broker1: VM #448 has been created in Source DC, Host #25
+0.1: Broker1: VM #230 has been created in Source DC, Host #26
+0.1: Broker1: VM #581 has been created in Source DC, Host #27
+0.1: Broker1: VM #164 has been created in Source DC, Host #28
+0.1: Broker1: VM #418 has been created in Source DC, Host #29
+0.1: Broker1: VM #481 has been created in Source DC, Host #30
+0.1: Broker1: VM #561 has been created in Source DC, Host #31
+0.1: Broker1: VM #52 has been created in Source DC, Host #32
+0.1: Broker1: VM #66 has been created in Source DC, Host #33
+0.1: Broker1: VM #320 has been created in Source DC, Host #34
+0.1: Broker1: VM #308 has been created in Source DC, Host #35
+0.1: Broker1: VM #228 has been created in Source DC, Host #36
+0.1: Broker1: VM #348 has been created in Source DC, Host #37
+0.1: Broker1: VM #433 has been created in Source DC, Host #38
+0.1: Broker1: VM #421 has been created in Source DC, Host #39
+0.1: Broker1: VM #574 has been created in Source DC, Host #40
+0.1: Broker1: VM #539 has been created in Source DC, Host #41
+0.1: Broker1: VM #453 has been created in Source DC, Host #42
+0.1: Broker1: VM #53 has been created in Source DC, Host #43
+0.1: Broker1: VM #244 has been created in Source DC, Host #44
+0.1: Broker1: VM #353 has been created in Source DC, Host #45
+0.1: Broker1: VM #221 has been created in Source DC, Host #46
+0.1: Broker1: VM #404 has been created in Source DC, Host #47
+0.1: Broker1: VM #508 has been created in Source DC, Host #48
+0.1: Broker1: VM #384 has been created in Source DC, Host #49
+0.1: Broker1: VM #583 has been created in Source DC, Host #50
+0.1: Broker1: VM #536 has been created in Source DC, Host #51
+0.1: Broker1: VM #355 has been created in Source DC, Host #52
+0.1: Broker1: VM #487 has been created in Source DC, Host #53
+0.1: Broker1: VM #584 has been created in Source DC, Host #54
+0.1: Broker1: VM #538 has been created in Source DC, Host #55
+0.1: Broker1: VM #259 has been created in Source DC, Host #56
+0.1: Broker1: VM #410 has been created in Source DC, Host #57
+0.1: Broker1: VM #408 has been created in Source DC, Host #58
+0.1: Broker1: VM #136 has been created in Source DC, Host #59
+0.1: Broker1: VM #302 has been created in Source DC, Host #60
+0.1: Broker1: VM #246 has been created in Source DC, Host #61
+0.1: Broker1: VM #216 has been created in Source DC, Host #62
+0.1: Broker1: VM #81 has been created in Source DC, Host #63
+0.1: Broker1: VM #594 has been created in Source DC, Host #64
+0.1: Broker1: VM #332 has been created in Source DC, Host #65
+0.1: Broker1: VM #33 has been created in Source DC, Host #66
+0.1: Broker1: VM #264 has been created in Source DC, Host #67
+0.1: Broker1: VM #511 has been created in Source DC, Host #68
+0.1: Broker1: VM #379 has been created in Source DC, Host #69
+0.1: Broker1: VM #493 has been created in Source DC, Host #70
+0.1: Broker1: VM #455 has been created in Source DC, Host #71
+0.1: Broker1: VM #85 has been created in Source DC, Host #72
+0.1: Broker1: VM #34 has been created in Source DC, Host #73
+0.1: Broker1: VM #41 has been created in Source DC, Host #74
+0.1: Broker1: VM #376 has been created in Source DC, Host #75
+0.1: Broker1: VM #562 has been created in Source DC, Host #76
+0.1: Broker1: VM #255 has been created in Source DC, Host #77
+0.1: Broker1: VM #87 has been created in Source DC, Host #78
+0.1: Broker1: VM #439 has been created in Source DC, Host #79
+0.1: Broker1: VM #430 has been created in Source DC, Host #80
+0.1: Broker1: VM #528 has been created in Source DC, Host #81
+0.1: Broker1: VM #125 has been created in Source DC, Host #82
+0.1: Broker1: VM #336 has been created in Source DC, Host #83
+0.1: Broker1: VM #492 has been created in Source DC, Host #84
+0.1: Broker1: VM #495 has been created in Source DC, Host #85
+0.1: Broker1: VM #196 has been created in Source DC, Host #86
+0.1: Broker1: VM #25 has been created in Source DC, Host #87
+0.1: Broker1: VM #467 has been created in Source DC, Host #88
+0.1: Broker1: VM #63 has been created in Source DC, Host #89
+0.1: Broker1: VM #315 has been created in Source DC, Host #90
+0.1: Broker1: VM #186 has been created in Source DC, Host #91
+0.1: Broker1: VM #565 has been created in Source DC, Host #92
+0.1: Broker1: VM #532 has been created in Source DC, Host #93
+0.1: Broker1: VM #479 has been created in Source DC, Host #94
+0.1: Broker1: VM #378 has been created in Source DC, Host #95
+0.1: Broker1: VM #160 has been created in Source DC, Host #96
+0.1: Broker1: VM #398 has been created in Source DC, Host #97
+0.1: Broker1: VM #198 has been created in Source DC, Host #98
+0.1: Broker1: VM #187 has been created in Source DC, Host #99
+0.1: Broker1: VM #109 has been created in Source DC, Host #100
+0.1: Broker1: VM #103 has been created in Source DC, Host #101
+0.1: Broker1: VM #365 has been created in Source DC, Host #102
+0.1: Broker1: VM #500 has been created in Source DC, Host #103
+0.1: Broker1: VM #443 has been created in Source DC, Host #104
+0.1: Broker1: VM #570 has been created in Source DC, Host #105
+0.1: Broker1: VM #361 has been created in Source DC, Host #106
+0.1: Broker1: VM #535 has been created in Source DC, Host #107
+0.1: Broker1: VM #205 has been created in Source DC, Host #108
+0.1: Broker1: VM #10 has been created in Source DC, Host #109
+0.1: Broker1: VM #483 has been created in Source DC, Host #110
+0.1: Broker1: VM #212 has been created in Source DC, Host #111
+0.1: Broker1: VM #413 has been created in Source DC, Host #112
+0.1: Broker1: VM #157 has been created in Source DC, Host #113
+0.1: Broker1: VM #12 has been created in Source DC, Host #114
+0.1: Broker1: VM #13 has been created in Source DC, Host #115
+0.1: Broker1: VM #591 has been created in Source DC, Host #116
+0.1: Broker1: VM #254 has been created in Source DC, Host #117
+0.1: Broker1: VM #360 has been created in Source DC, Host #118
+0.1: Broker1: VM #263 has been created in Source DC, Host #119
+0.1: Broker1: VM #39 has been created in Source DC, Host #120
+0.1: Broker1: VM #451 has been created in Source DC, Host #121
+0.1: Broker1: VM #486 has been created in Source DC, Host #122
+0.1: Broker1: VM #3 has been created in Source DC, Host #123
+0.1: Broker1: VM #240 has been created in Source DC, Host #124
+0.1: Broker1: VM #322 has been created in Source DC, Host #125
+0.1: Broker1: VM #575 has been created in Source DC, Host #126
+0.1: Broker1: VM #209 has been created in Source DC, Host #127
+0.1: Broker1: VM #543 has been created in Source DC, Host #128
+0.1: Broker1: VM #297 has been created in Source DC, Host #129
+0.1: Broker1: VM #556 has been created in Source DC, Host #130
+0.1: Broker1: VM #192 has been created in Source DC, Host #131
+0.1: Broker1: VM #0 has been created in Source DC, Host #132
+0.1: Broker1: VM #189 has been created in Source DC, Host #133
+0.1: Broker1: VM #82 has been created in Source DC, Host #134
+0.1: Broker1: VM #249 has been created in Source DC, Host #135
+0.1: Broker1: VM #256 has been created in Source DC, Host #136
+0.1: Broker1: VM #123 has been created in Source DC, Host #137
+0.1: Broker1: VM #352 has been created in Source DC, Host #138
+0.1: Broker1: VM #219 has been created in Source DC, Host #139
+0.1: Broker1: VM #185 has been created in Source DC, Host #140
+0.1: Broker1: VM #274 has been created in Source DC, Host #141
+0.1: Broker1: VM #113 has been created in Source DC, Host #142
+0.1: Broker1: VM #75 has been created in Source DC, Host #143
+0.1: Broker1: VM #96 has been created in Source DC, Host #144
+0.1: Broker1: VM #578 has been created in Source DC, Host #145
+0.1: Broker1: VM #300 has been created in Source DC, Host #146
+0.1: Broker1: VM #153 has been created in Source DC, Host #147
+0.1: Broker1: VM #341 has been created in Source DC, Host #148
+0.1: Broker1: VM #20 has been created in Source DC, Host #149
+
+0.1 Source DC: Recieved a migration starting message from Broker
+Starting the migration with vm amount: 600
+
+0.1 Broker: Received all queue message from Source DC at 0.1
+Amount of VM in a waiting queue: 600
+	VM has done the migration
+VM id: 162 allocated into Destination DC's host
+	VM has done the migration
+VM id: 56 allocated into Destination DC's host
+	VM has done the migration
+VM id: 143 allocated into Destination DC's host
+	VM has done the migration
+VM id: 43 allocated into Destination DC's host
+	VM has done the migration
+VM id: 130 allocated into Destination DC's host
+	VM has done the migration
+VM id: 102 allocated into Destination DC's host
+	VM has done the migration
+VM id: 80 allocated into Destination DC's host
+	VM has done the migration
+VM id: 150 allocated into Destination DC's host
+	VM has done the migration
+VM id: 73 allocated into Destination DC's host
+	VM has done the migration
+VM id: 195 allocated into Destination DC's host
+	VM has done the migration
+VM id: 50 allocated into Destination DC's host
+	VM has done the migration
+VM id: 71 allocated into Destination DC's host
+	VM has done the migration
+VM id: 133 allocated into Destination DC's host
+	VM has done the migration
+VM id: 129 allocated into Destination DC's host
+	VM has done the migration
+VM id: 156 allocated into Destination DC's host
+	VM has done the migration
+VM id: 171 allocated into Destination DC's host
+	VM has done the migration
+VM id: 90 allocated into Destination DC's host
+	VM has done the migration
+VM id: 144 allocated into Destination DC's host
+	VM has done the migration
+VM id: 167 allocated into Destination DC's host
+	VM has done the migration
+VM id: 124 allocated into Destination DC's host
+	VM has done the migration
+VM id: 104 allocated into Destination DC's host
+	VM has done the migration
+VM id: 135 allocated into Destination DC's host
+	VM has done the migration
+VM id: 65 allocated into Destination DC's host
+	VM has done the migration
+VM id: 118 allocated into Destination DC's host
+	VM has done the migration
+VM id: 197 allocated into Destination DC's host
+	VM has done the migration
+VM id: 176 allocated into Destination DC's host
+	VM has done the migration
+VM id: 99 allocated into Destination DC's host
+	VM has done the migration
+VM id: 166 allocated into Destination DC's host
+	VM has done the migration
+VM id: 1 allocated into Destination DC's host
+	VM has done the migration
+VM id: 168 allocated into Destination DC's host
+	VM has done the migration
+VM id: 163 allocated into Destination DC's host
+	VM has done the migration
+VM id: 165 allocated into Destination DC's host
+	VM has done the migration
+VM id: 127 allocated into Destination DC's host
+	VM has done the migration
+VM id: 38 allocated into Destination DC's host
+	VM has done the migration
+VM id: 181 allocated into Destination DC's host
+	VM has done the migration
+VM id: 69 allocated into Destination DC's host
+	VM has done the migration
+VM id: 137 allocated into Destination DC's host
+	VM has done the migration
+VM id: 27 allocated into Destination DC's host
+	VM has done the migration
+VM id: 58 allocated into Destination DC's host
+	VM has done the migration
+VM id: 147 allocated into Destination DC's host
+	VM has done the migration
+VM id: 93 allocated into Destination DC's host
+	VM has done the migration
+VM id: 138 allocated into Destination DC's host
+	VM has done the migration
+VM id: 60 allocated into Destination DC's host
+	VM has done the migration
+VM id: 78 allocated into Destination DC's host
+Simulation: No more future events
+CloudInformationService: Notify all CloudSim entities for shutting down.
+Datacenter_0 is shutting down...
+Datacenter_1 is shutting down...
+Broker1 is shutting down...
+Simulation completed.
+VmigSim finished!
+
+Migrated VM details ::
+	VM: 162 finished the migration with the time 280.1009524317454 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.790372256337742 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 56 finished the migration with the time 148.89407940699576 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.644869464774889 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 143 finished the migration with the time 161.6249860563468 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.661814684669176 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 43 finished the migration with the time 111.18018267452425 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.50137884914875 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 130 finished the migration with the time 97.19244313748173 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.463246654007886 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 102 finished the migration with the time 171.35560633427588 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.710604620876191 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 80 finished the migration with the time 98.5913405348367 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.729294850200905 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 150 finished the migration with the time 199.19708427069227 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.682367481336476 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 73 finished the migration with the time 187.0040549657381 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.762704819045416 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 195 finished the migration with the time 298.23908892482626 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.338601298843113 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 50 finished the migration with the time 108.96962317480003 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.402450880949628 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 71 finished the migration with the time 158.0034467978296 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.30930652358421 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 133 finished the migration with the time 271.4656001213951 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.529826253536942 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 129 finished the migration with the time 97.61967950374023 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.507638937647048 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 156 finished the migration with the time 322.2515892091464 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.650207309586564 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 171 finished the migration with the time 146.31224996612175 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.553528951455469 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 90 finished the migration with the time 157.98782757539075 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.332792067947155 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 144 finished the migration with the time 221.8852033212509 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.609407165530707 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 167 finished the migration with the time 134.94048463220423 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.619548765021031 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 124 finished the migration with the time 196.23284058826624 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.496103413448742 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 104 finished the migration with the time 197.96358698186387 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.458361229819255 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 135 finished the migration with the time 121.99575244238527 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.437789296745967 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 65 finished the migration with the time 95.64253222244456 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.154989940253765 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 118 finished the migration with the time 132.50635748925296 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.339575006418617 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 197 finished the migration with the time 181.78760178765367 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.412012686271956 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 176 finished the migration with the time 159.16839403081983 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.541000061428427 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 99 finished the migration with the time 212.57366702468664 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.959000224530493 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 166 finished the migration with the time 99.91306915609343 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.93326827747725 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 1 finished the migration with the time 202.04437038913272 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.777914611336096 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 168 finished the migration with the time 111.14115476415762 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.590255028244904 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 163 finished the migration with the time 111.23189336507708 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.638092820575348 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 165 finished the migration with the time 161.54862968667956 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.659112424629667 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 127 finished the migration with the time 186.62865882359438 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.576682633782195 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 38 finished the migration with the time 123.81334458563519 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.617774565601907 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 181 finished the migration with the time 212.6155635649995 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.67447001025523 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 69 finished the migration with the time 124.22149374821876 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.699325250982 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 137 finished the migration with the time 98.90673232414213 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.700651117748258 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 27 finished the migration with the time 98.85557975845153 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.73355766638697 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 58 finished the migration with the time 111.21566925494888 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.606575185851293 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 147 finished the migration with the time 229.2601811762162 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.23206426949992 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 93 finished the migration with the time 107.2613814218969 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.195260441180356 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 138 finished the migration with the time 204.3931684225874 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.168186601569076 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 60 finished the migration with the time 168.3653044150941 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.176885713007032 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 78 finished the migration with the time 147.7148966279774 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 12.657472997583058 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+
+Overall details ::
+	Total migrated VM = 44 / 600
+	Total migrated VM in each priority: 
+		Priority 1 = 44 / 200
+		Priority 2 = 0 / 200
+		Priority 3 = 0 / 200
+	Total violated VM = 0 / 600
+	Total violated VM in each priority: 
+		Priority 1 = 0 / 200
+		Priority 2 = 0 / 200
+		Priority 3 = 0 / 200
+	Avg excess downtime percentage = 0.0%
+	Avg excess downtime percentage in each priority: 
+		Priority 1 = 0.0%
+		Priority 2 = 0.0%
+		Priority 3 = 0.0%
+	Total migration time = 7169.817347091615 (Avg. = 162.9503942520822) secs
+	Total down time = 552.2363433091269 (Avg. = 12.55082598429834) secs
+
+Environment details ::
+	Thread number = 1
+	Recorded bandwidth trace = true
+		Trace file name = run_simulation/closed-loop/bandwidth-1t.txt
+		Network interval = 1.0
+	Time limit = 7200.0 secs
+	Schedule type = priority
+	Migration type = precopy
+		WWS page percentage = 1.0%
+		WWS dirty rate = 90.0%
+		Normal dirty rate = 20.0%
+		Max pre-copy iteration = 30
+		Min dirty page = 50
+		Max no-progress round = 2
+	Control type = openloop
+

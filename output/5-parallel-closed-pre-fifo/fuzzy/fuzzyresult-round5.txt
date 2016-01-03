@@ -1,0 +1,519 @@
+clock: 203.57412205816732
+time_predict: 38561.56838435325, BW(MBps): 7.995392, leftRAM: 306688.0
+status: -31361.568384353253
+delta_status (%): -435.57733867157293, status (%): -435.57733867157293, prev_status (%): 0.0
+action: -0.8339999999999996 del_n_multiplier: -0.8339999999999996 prev_action: 1.0
+Change thread number from 1 to 1
+
+clock: 416.3007006227789
+time_predict: 39348.492367289444, BW(MBps): 7.86432, leftRAM: 306176.0
+status: -32148.492367289444
+delta_status (%): -10.929499763002696, status (%): -446.5068384345756, prev_status (%): -435.57733867157293
+action: 0.6422521943355818 del_n_multiplier: -0.7700865639515373 prev_action: -0.8339999999999996
+Change thread number from 1 to 2
+
+clock: 541.3592908680204
+time_predict: 18588.739911023058, BW(MBps): 16.908288, leftRAM: 305152.0
+status: -11388.739911023058
+delta_status (%): 288.3298952259221, status (%): -158.17694320865357, prev_status (%): -446.5068384345756
+action: 0.534781993553336 del_n_multiplier: 0.8326666662565083 prev_action: 0.6422521943355818
+Change thread number from 2 to 4
+
+clock: 799.4108611298495
+time_predict: 10123.907635323398, BW(MBps): 32.505856, leftRAM: 303104.0
+status: -2923.9076353233977
+delta_status (%): 117.56711494027304, status (%): -40.609828268380525, prev_status (%): -158.17694320865357
+action: 0.17334705471212045 del_n_multiplier: 0.3241452719085087 prev_action: 0.534781993553336
+Change thread number from 4 to 8
+
+clock: 1545.2909002827046
+time_predict: 13615.296720388526, BW(MBps): 24.772607999999998, leftRAM: 299008.0
+status: -6415.2967203885255
+delta_status (%): -48.491515070348996, status (%): -89.10134333872952, prev_status (%): -40.609828268380525
+action: -0.14457128049188128 del_n_multiplier: -0.8339990588935737 prev_action: 0.17334705471212045
+Change thread number from 8 to 4
+
+clock: 1836.0511918359732
+time_predict: 11772.902946221937, BW(MBps): 29.884416, leftRAM: 296960.0
+status: -4572.902946221937
+delta_status (%): 25.5888024189804, status (%): -63.51254091974912, prev_status (%): -89.10134333872952
+action: -0.12033634223991559 del_n_multiplier: 0.8323668562005532 prev_action: -0.14457128049188128
+Change thread number from 4 to 2
+
+clock: 1985.0720929491758
+time_predict: 19904.118918346, BW(MBps): 16.515072, leftRAM: 295936.0
+status: -12704.118918346001
+delta_status (%): -112.9335551683898, status (%): -176.44609608813892, prev_status (%): -63.51254091974912
+action: 0.10036050941513838 del_n_multiplier: -0.8339999998923748 prev_action: -0.12033634223991559
+Change thread number from 2 to 4
+
+clock: 2170.449364696406
+time_predict: 12225.00183106412, BW(MBps): 29.229056, leftRAM: 293888.0
+status: -5025.001831064121
+delta_status (%): 106.65440399002613, status (%): -69.79169209811279, prev_status (%): -176.44609608813892
+action: 0.08356190061126015 del_n_multiplier: 0.8326173422018888 prev_action: 0.10036050941513838
+Change thread number from 4 to 8
+
+clock: 2705.325752905465
+time_predict: 12235.128770146843, BW(MBps): 30.408704, leftRAM: 289792.0
+status: -5035.128770146843
+delta_status (%): -0.14065193170446832, status (%): -69.93234402981726, prev_status (%): -69.79169209811279
+action: -0.00361776489666593 del_n_multiplier: -0.0432944304785048 prev_action: 0.08356190061126015
+Change thread number from 8 to 4
+
+clock: 2839.9226467175927
+time_predict: 11763.857199563121, BW(MBps): 32.243711999999995, leftRAM: 287744.0
+status: -4563.857199563121
+delta_status (%): 6.545438480329466, status (%): -63.38690554948779, prev_status (%): -69.93234402981726
+action: -0.002666370908987417 del_n_multiplier: 0.7370216100677792 prev_action: -0.00361776489666593
+Change thread number from 4 to 2
+
+clock: 2950.615150457555
+time_predict: 19154.218854161263, BW(MBps): 17.694719999999997, leftRAM: 286720.0
+status: -11954.218854161263
+delta_status (%): -102.64391186941863, status (%): -166.03081741890642, prev_status (%): -63.38690554948779
+action: 0.00222375333749544 del_n_multiplier: -0.8339999997749504 prev_action: -0.002666370908987417
+Change thread number from 2 to 4
+
+clock: 3137.3022630500773
+time_predict: 11859.591821283011, BW(MBps): 32.636928, leftRAM: 284672.0
+status: -4659.591821283011
+delta_status (%): 101.31426434553127, status (%): -64.71655307337515, prev_status (%): -166.03081741890642
+action: 0.0018512162203742468 del_n_multiplier: 0.8324737232139365 prev_action: 0.00222375333749544
+Change thread number from 4 to 8
+
+clock: 3539.9824416380525
+time_predict: 13011.674477036282, BW(MBps): 29.622272, leftRAM: 280576.0
+status: -5811.674477036282
+delta_status (%): -16.00114799657321, status (%): -80.71770106994836, prev_status (%): -64.71655307337515
+action: -0.0015081663660540894 del_n_multiplier: -0.8146894724967322 prev_action: 0.0018512162203742468
+Change thread number from 8 to 4
+
+clock: 3729.5272594748835
+time_predict: 13181.297000895009, BW(MBps): 29.468032, leftRAM: 278528.0
+status: -5981.297000895009
+delta_status (%): -2.3558683869267583, status (%): -83.07356945687512, prev_status (%): -80.71770106994836
+action: 8.33305555547253E-4 del_n_multiplier: -0.5525289346741519 prev_action: -0.0015081663660540894
+Change thread number from 4 to 8
+
+clock: 4256.176996915507
+time_predict: 8776.54667034109, BW(MBps): 60.708736, leftRAM: 274432.0
+status: -1576.5466703410893
+delta_status (%): 61.17708792435999, status (%): -21.896481532515132, prev_status (%): -83.07356945687512
+action: 2.500039163295007E-4 del_n_multiplier: 0.30001470008839287 prev_action: 8.33305555547253E-4
+Change thread number from 8 to 16
+
+clock: 6197.739023323313
+time_predict: 17933.668634228794, BW(MBps): 22.685696, leftRAM: 266240.0
+status: -10733.668634228794
+delta_status (%): -127.18224949844034, status (%): -149.07873103095548, prev_status (%): -21.896481532515132
+action: -2.0850326600586056E-4 del_n_multiplier: -0.8339999991482412 prev_action: 2.500039163295007E-4
+Change thread number from 16 to 8
+
+clock: 6573.294507102013
+time_predict: 12586.925075528752, BW(MBps): 43.590912, leftRAM: 262144.0
+status: -5386.925075528752
+delta_status (%): 74.26032720416725, status (%): -74.81840382678823, prev_status (%): -149.07873103095548
+action: -1.7361058923036853E-4 del_n_multiplier: 0.8326516536459853 prev_action: -2.0850326600586056E-4
+Change thread number from 8 to 4
+
+clock: 6809.169154954099
+time_predict: 14986.460599277814, BW(MBps): 31.80672, leftRAM: 260096.0
+status: -7786.460599277814
+delta_status (%): -33.32688227429253, status (%): -108.14528610108076, prev_status (%): -74.81840382678823
+action: 1.447910676511403E-4 del_n_multiplier: -0.833999056699319 prev_action: -1.7361058923036853E-4
+Change thread number from 4 to 8
+
+clock: 7059.200574455356
+time_predict: 12830.256912194967, BW(MBps): 44.358528, leftRAM: 256000.0
+status: -5630.256912194967
+delta_status (%): 29.947273431706208, status (%): -78.19801266937455, prev_status (%): -108.14528610108076
+action: 1.2056163369122651E-4 del_n_multiplier: 0.8326593321468407 prev_action: 1.447910676511403E-4
+Change thread number from 8 to 16
+
+clock: 7059.200574455356
+time_predict: 14812.156143359838, BW(MBps): 31.96262399999999, leftRAM: 247808.0
+status: -7612.156143359838
+delta_status (%): -27.526378210623193, status (%): -105.72439087999774, prev_status (%): -78.19801266937455
+action: -1.005468990674054E-4 del_n_multiplier: -0.8339875297718563 prev_action: 1.2056163369122651E-4
+Change thread number from 16 to 8
+
+clock: 7193.653583452053
+time_predict: 10779.740735710559, BW(MBps): 67.958528, leftRAM: 243712.0
+status: -3579.7407357105585
+delta_status (%): 56.005769550684434, status (%): -49.71862132931331, prev_status (%): -105.72439087999774
+action: -7.481149841997124E-5 del_n_multiplier: 0.744045804633105 prev_action: -1.005468990674054E-4
+Change thread number from 8 to 4
+
+clock: 7193.653583452053
+time_predict: 15592.279539429917, BW(MBps): 28.773888, leftRAM: 241664.0
+status: -8392.279539429917
+delta_status (%): -66.84081671832445, status (%): -116.55943804763776, prev_status (%): -49.71862132931331
+action: 6.239278813516963E-5 del_n_multiplier: -0.8339999793202059 prev_action: -7.481149841997124E-5
+Change thread number from 4 to 8
+
+clock: 7193.653583452053
+time_predict: 10689.332656241857, BW(MBps): 67.958528, leftRAM: 237568.0
+status: -3489.332656241857
+delta_status (%): 68.09648448872308, status (%): -48.46295355891468, prev_status (%): -116.55943804763776
+action: 4.240465113558471E-5 del_n_multiplier: 0.6796402661749622 prev_action: 6.239278813516963E-5
+Change thread number from 8 to 16
+
+clock: 7193.653583452053
+time_predict: 17138.83235094786, BW(MBps): 23.063808, leftRAM: 229376.0
+status: -9938.832350947861
+delta_status (%): -89.5763846486945, status (%): -138.03933820760918, prev_status (%): -48.46295355891468
+action: -3.536547895152185E-5 del_n_multiplier: -0.8339999977465727 prev_action: 4.240465113558471E-5
+Change thread number from 16 to 8
+
+clock: 7193.653583452053
+time_predict: 10508.516497304454, BW(MBps): 67.958528, leftRAM: 225280.0
+status: -3308.516497304454
+delta_status (%): 92.08772018949176, status (%): -45.951618018117415, prev_status (%): -138.03933820760918
+action: -1.7173590878581025E-5 del_n_multiplier: 0.4856032319574173 prev_action: -3.536547895152185E-5
+Change thread number from 8 to 4
+
+clock: 7193.653583452053
+time_predict: 14951.698746177368, BW(MBps): 28.773888, leftRAM: 223232.0
+status: -7751.698746177368
+delta_status (%): -61.710864567679366, status (%): -107.66248258579678, prev_status (%): -45.951618018117415
+action: 1.4322773742020874E-5 del_n_multiplier: -0.8339999388179381 prev_action: -1.7173590878581025E-5
+Change thread number from 4 to 8
+
+clock: 7193.653583452053
+time_predict: 10418.108417835752, BW(MBps): 67.958528, leftRAM: 219136.0
+status: -3218.1084178357523
+delta_status (%): 62.966532338078, status (%): -44.695950247718784, prev_status (%): -107.66248258579678
+action: 5.889739620937538E-6 del_n_multiplier: 0.41121501512363656 prev_action: 1.4322773742020874E-5
+Change thread number from 8 to 16
+
+clock: 7193.653583452053
+time_predict: 16339.658164274091, BW(MBps): 23.063808, leftRAM: 210944.0
+status: -9139.658164274091
+delta_status (%): -82.24374647831026, status (%): -126.93969672602904, prev_status (%): -44.695950247718784
+action: -4.9120428046206104E-6 del_n_multiplier: -0.8339999933373462 prev_action: 5.889739620937538E-6
+Change thread number from 16 to 8
+
+clock: 7193.653583452053
+time_predict: 10237.292258898347, BW(MBps): 67.958528, leftRAM: 206848.0
+status: -3037.2922588983474
+delta_status (%): 84.75508201910755, status (%): -42.184614706921494, prev_status (%): -126.93969672602904
+action: -1.6839643215186312E-6 del_n_multiplier: 0.3428236252205654 prev_action: -4.9120428046206104E-6
+Change thread number from 8 to 4
+
+clock: 7193.653583452053
+time_predict: 14311.117952924818, BW(MBps): 28.773888, leftRAM: 204800.0
+status: -7111.117952924818
+delta_status (%): -56.58091241703431, status (%): -98.7655271239558, prev_status (%): -42.184614706921494
+action: 1.4044258962435423E-6 del_n_multiplier: -0.8339997934023947 prev_action: -1.6839643215186312E-6
+Change thread number from 4 to 8
+
+clock: 7193.653583452053
+time_predict: 10146.884179429646, BW(MBps): 67.958528, leftRAM: 200704.0
+status: -2946.884179429646
+delta_status (%): 57.83658018743294, status (%): -40.92894693652286, prev_status (%): -98.7655271239558
+action: 4.594676190572891E-7 del_n_multiplier: 0.3271568975524021 prev_action: 1.4044258962435423E-6
+Change thread number from 8 to 16
+
+clock: 7193.653583452053
+time_predict: 15540.483977600321, BW(MBps): 23.063808, leftRAM: 192512.0
+status: -8340.483977600321
+delta_status (%): -74.91110830792604, status (%): -115.8400552444489, prev_status (%): -40.92894693652286
+action: -3.8319598396571013E-7 del_n_multiplier: -0.8339999775216609 prev_action: 4.594676190572891E-7
+Change thread number from 16 to 8
+
+clock: 7193.653583452053
+time_predict: 9966.068020492243, BW(MBps): 67.958528, leftRAM: 188416.0
+status: -2766.068020492243
+delta_status (%): 77.4224438487233, status (%): -38.417611395725594, prev_status (%): -115.8400552444489
+action: -1.1899265379553639E-7 del_n_multiplier: 0.3105268812164386 prev_action: -3.8319598396571013E-7
+Change thread number from 8 to 4
+
+clock: 7193.653583452053
+time_predict: 13670.537159672269, BW(MBps): 28.773888, leftRAM: 186368.0
+status: -6470.537159672269
+delta_status (%): -51.45096026638925, status (%): -89.86857166211485, prev_status (%): -38.417611395725594
+action: 9.923977497205151E-8 del_n_multiplier: -0.8339991739538307 prev_action: -1.1899265379553639E-7
+Change thread number from 4 to 8
+
+clock: 7193.653583452053
+time_predict: 9875.659941023541, BW(MBps): 67.958528, leftRAM: 182272.0
+status: -2675.6599410235413
+delta_status (%): 52.70662803678789, status (%): -37.161943625326955, prev_status (%): -89.86857166211485
+action: 3.041289264498157E-8 del_n_multiplier: 0.30645870220429894 prev_action: 9.923977497205151E-8
+Change thread number from 8 to 16
+
+clock: 7193.653583452053
+time_predict: 14741.30979092655, BW(MBps): 23.063808, leftRAM: 174080.0
+status: -7541.309790926551
+delta_status (%): -67.57847013754181, status (%): -104.74041376286877, prev_status (%): -37.161943625326955
+action: -2.5364349735865E-8 del_n_multiplier: -0.8339999102338058 prev_action: 3.041289264498157E-8
+Change thread number from 16 to 8
+
+clock: 7193.653583452053
+time_predict: 9694.843782086136, BW(MBps): 67.958528, leftRAM: 169984.0
+status: -2494.8437820861363
+delta_status (%): 70.0898056783391, status (%): -34.65060808452967, prev_status (%): -104.74041376286877
+action: -7.67010699372157E-9 del_n_multiplier: 0.30239714692453146 prev_action: -2.5364349735865E-8
+Change thread number from 8 to 4
+
+clock: 7193.653583452053
+time_predict: 13029.956366419721, BW(MBps): 28.773888, leftRAM: 167936.0
+status: -5829.956366419721
+delta_status (%): -46.32100811574423, status (%): -80.9716162002739, prev_status (%): -34.65060808452967
+action: 6.396837554128948E-9 del_n_multiplier: -0.8339958698575043 prev_action: -7.67010699372157E-9
+Change thread number from 4 to 8
+
+clock: 7193.653583452053
+time_predict: 9604.435702617435, BW(MBps): 67.958528, leftRAM: 163840.0
+status: -2404.435702617435
+delta_status (%): 47.57667588614286, status (%): -33.39494031413104, prev_status (%): -80.9716162002739
+action: 1.9283582789354483E-9 del_n_multiplier: 0.30145493966636006 prev_action: 6.396837554128948E-9
+Change thread number from 8 to 16
+
+clock: 7193.653583452053
+time_predict: 13942.13560425278, BW(MBps): 23.063808, leftRAM: 155648.0
+status: -6742.1356042527805
+delta_status (%): -60.24583196715758, status (%): -93.64077228128862, prev_status (%): -33.39494031413104
+action: -1.608249940599912E-9 del_n_multiplier: -0.8339995519337556 prev_action: 1.9283582789354483E-9
+Change thread number from 16 to 8
+
+clock: 7193.653583452053
+time_predict: 9423.619543680032, BW(MBps): 67.958528, leftRAM: 151552.0
+status: -2223.6195436800317
+delta_status (%): 62.75716750795485, status (%): -30.883604773333776, prev_status (%): -93.64077228128862
+action: -4.833343597243869E-10 del_n_multiplier: 0.3005343557134489 prev_action: -1.608249940599912E-9
+Change thread number from 8 to 4
+
+clock: 7193.653583452053
+time_predict: 12389.375573167172, BW(MBps): 28.773888, leftRAM: 149504.0
+status: -5189.375573167172
+delta_status (%): -41.19105596509917, status (%): -72.07466073843294, prev_status (%): -30.883604773333776
+action: 4.030871893333567E-10 del_n_multiplier: -0.8339717241770483 prev_action: -4.833343597243869E-10
+Change thread number from 4 to 8
+
+clock: 7193.653583452053
+time_predict: 9333.21146421133, BW(MBps): 67.958528, leftRAM: 145408.0
+status: -2133.21146421133
+delta_status (%): 42.4467237354978, status (%): -29.62793700293514, prev_status (%): -72.07466073843294
+action: 1.2105658834818993E-10 del_n_multiplier: 0.30032358147724475 prev_action: 4.030871893333567E-10
+Change thread number from 8 to 16
+
+clock: 7193.653583452053
+time_predict: 13142.961417579008, BW(MBps): 23.063808, leftRAM: 137216.0
+status: -5942.961417579008
+delta_status (%): -52.913193796773314, status (%): -82.54113079970845, prev_status (%): -29.62793700293514
+action: -1.0096082564213775E-10 del_n_multiplier: -0.8339969515062526 prev_action: 1.2105658834818993E-10
+Change thread number from 16 to 8
+
+clock: 7193.653583452053
+time_predict: 9152.395305273925, BW(MBps): 67.958528, leftRAM: 133120.0
+status: -1952.3953052739253
+delta_status (%): 55.424529337570604, status (%): -27.11660146213785, prev_status (%): -82.54113079970845
+action: -3.030021925508681E-11 del_n_multiplier: 0.3001185763128356 prev_action: -1.0096082564213775E-10
+Change thread number from 8 to 4
+
+clock: 7193.653583452053
+time_predict: 11748.794779914624, BW(MBps): 28.773888, leftRAM: 131072.0
+status: -4548.794779914624
+delta_status (%): -36.06110381445415, status (%): -63.177705276592, prev_status (%): -27.11660146213785
+action: 2.5260987147410748E-11 del_n_multiplier: -0.8336899127609424 prev_action: -3.030021925508681E-11
+Change thread number from 4 to 8
+
+clock: 7193.653583452053
+time_predict: 9061.987225805224, BW(MBps): 67.958528, leftRAM: 126976.0
+status: -1861.9872258052237
+delta_status (%): 37.31677158485279, status (%): -25.860933691739216, prev_status (%): -63.177705276592
+action: 7.580108992587702E-12 del_n_multiplier: 0.30007176474750963 prev_action: 2.5260987147410748E-11
+Change thread number from 8 to 16
+
+clock: 7193.653583452053
+time_predict: 12343.78723090524, BW(MBps): 23.063808, leftRAM: 118784.0
+status: -5143.78723090524
+delta_status (%): -45.58055562638911, status (%): -71.44148931812833, prev_status (%): -25.860933691739216
+action: -6.3215613002006425E-12 del_n_multiplier: -0.8339670717640413 prev_action: 7.580108992587702E-12
+Change thread number from 16 to 8
+
+clock: 7193.653583452053
+time_predict: 8881.17106686782, BW(MBps): 67.958528, leftRAM: 114688.0
+status: -1681.1710668678206
+delta_status (%): 48.091891167186375, status (%): -23.349598150941954, prev_status (%): -71.44148931812833
+action: -1.896634559919354E-12 del_n_multiplier: 0.3000262862054594 prev_action: -6.3215613002006425E-12
+Change thread number from 8 to 4
+
+clock: 7193.653583452053
+time_predict: 11108.213986662075, BW(MBps): 28.773888, leftRAM: 112640.0
+status: -3908.2139866620746
+delta_status (%): -30.93115166380908, status (%): -54.28074981475103, prev_status (%): -23.349598150941954
+action: 1.5622813273405962E-12 del_n_multiplier: -0.8237123589095758 prev_action: -1.896634559919354E-12
+Change thread number from 4 to 8
+
+clock: 7193.653583452053
+time_predict: 8790.762987399119, BW(MBps): 67.958528, leftRAM: 108544.0
+status: -1590.762987399119
+delta_status (%): 32.18681943420771, status (%): -22.09393038054332, prev_status (%): -54.28074981475103
+action: 4.687092131228867E-13 del_n_multiplier: 0.3000158837721949 prev_action: 1.5622813273405962E-12
+Change thread number from 8 to 16
+
+clock: 7193.653583452053
+time_predict: 11544.613044231468, BW(MBps): 23.063808, leftRAM: 100352.0
+status: -4344.613044231468
+delta_status (%): -38.24791745600484, status (%): -60.34184783654816, prev_status (%): -22.09393038054332
+action: -3.905342964751934E-13 del_n_multiplier: -0.8332123319555972 prev_action: 4.687092131228867E-13
+Change thread number from 16 to 8
+
+clock: 7193.653583452053
+time_predict: 8609.946828461714, BW(MBps): 67.958528, leftRAM: 96256.0
+status: -1409.9468284617142
+delta_status (%): 40.75925299680213, status (%): -19.582594839746033, prev_status (%): -60.34184783654816
+action: -1.1716256536002134E-13 del_n_multiplier: 0.30000582898220174 prev_action: -3.905342964751934E-13
+Change thread number from 8 to 4
+
+clock: 7193.653583452053
+time_predict: 10467.633193409525, BW(MBps): 28.773888, leftRAM: 94208.0
+status: -3267.633193409525
+delta_status (%): -25.801199513164033, status (%): -45.383794352910066, prev_status (%): -19.582594839746033
+action: 5.253835558200952E-14 del_n_multiplier: -0.448422714376113 prev_action: -1.1716256536002134E-13
+Change thread number from 4 to 8
+
+clock: 7193.653583452053
+time_predict: 8519.538748993013, BW(MBps): 67.958528, leftRAM: 90112.0
+status: -1319.5387489930126
+delta_status (%): 27.056867283562667, status (%): -18.3269270693474, prev_status (%): -45.383794352910066
+action: 1.576168298362825E-14 del_n_multiplier: 0.3000033558154503 prev_action: 5.253835558200952E-14
+Change thread number from 8 to 16
+
+clock: 7193.653583452053
+time_predict: 10745.4388575577, BW(MBps): 23.063808, leftRAM: 81920.0
+status: -3545.4388575576995
+delta_status (%): -30.915279285620656, status (%): -49.242206354968054, prev_status (%): -18.3269270693474
+action: -1.1417168889148692E-14 del_n_multiplier: -0.7243622969074921 prev_action: 1.576168298362825E-14
+Change thread number from 16 to 8
+
+clock: 7193.653583452053
+time_predict: 8338.72259005561, BW(MBps): 67.958528, leftRAM: 77824.0
+status: -1138.7225900556095
+delta_status (%): 33.426614826417925, status (%): -15.815591528550131, prev_status (%): -49.242206354968054
+action: -3.4251674618142527E-15 del_n_multiplier: 0.3000014710362795 prev_action: -1.1417168889148692E-14
+Change thread number from 8 to 4
+
+clock: 7193.653583452053
+time_predict: 9827.052400156976, BW(MBps): 28.773888, leftRAM: 75776.0
+status: -2627.0524001569756
+delta_status (%): -20.671247362518976, status (%): -36.486838891069105, prev_status (%): -15.815591528550131
+action: 1.0447712411746642E-15 del_n_multiplier: -0.3050277841367986 prev_action: -3.4251674618142527E-15
+Change thread number from 4 to 8
+
+clock: 7193.653583452053
+time_predict: 8248.314510586908, BW(MBps): 67.958528, leftRAM: 71680.0
+status: -1048.314510586908
+delta_status (%): 21.926915132917607, status (%): -14.5599237581515, prev_status (%): -36.486838891069105
+action: 3.1343030305137886E-16 del_n_multiplier: 0.2999989765213874 prev_action: 1.0447712411746642E-15
+Change thread number from 8 to 16
+
+clock: 7193.653583452053
+time_predict: 9946.264670883927, BW(MBps): 23.063808, leftRAM: 63488.0
+status: -2746.2646708839275
+delta_status (%): -23.582641115236385, status (%): -38.14256487338788, prev_status (%): -14.5599237581515
+action: -9.701652002145861E-17 del_n_multiplier: -0.30953139845433275 prev_action: 3.1343030305137886E-16
+Change thread number from 16 to 8
+
+clock: 7193.653583452053
+time_predict: 8067.498351649504, BW(MBps): 67.958528, leftRAM: 59392.0
+status: -867.498351649504
+delta_status (%): 26.09397665603366, status (%): -12.048588217354222, prev_status (%): -38.14256487338788
+action: -2.910495912416654E-17 del_n_multiplier: 0.3000000321360626 prev_action: -9.701652002145861E-17
+Change thread number from 8 to 4
+
+clock: 7193.653583452053
+time_predict: 9186.471606904426, BW(MBps): 28.773888, leftRAM: 57344.0
+status: -1986.4716069044262
+delta_status (%): -15.541295211873916, status (%): -27.589883429228138, prev_status (%): -12.048588217354222
+action: 8.736041471204379E-18 del_n_multiplier: -0.3001564590396774 prev_action: -2.910495912416654E-17
+Change thread number from 4 to 8
+
+clock: 7193.653583452053
+time_predict: 7977.090272180802, BW(MBps): 67.958528, leftRAM: 53248.0
+status: -777.0902721808015
+delta_status (%): 16.79696298227256, status (%): -10.792920446955577, prev_status (%): -27.589883429228138
+action: 2.6205900333977357E-18 del_n_multiplier: 0.2999745413338168 prev_action: 8.736041471204379E-18
+Change thread number from 8 to 16
+
+clock: 7193.653583452053
+time_predict: 9147.090484210157, BW(MBps): 23.063808, leftRAM: 45056.0
+status: -1947.0904842101572
+delta_status (%): -16.250002944852163, status (%): -27.04292339180774, prev_status (%): -10.792920446955577
+action: -7.864877037876839E-19 del_n_multiplier: -0.3001185587079259 prev_action: 2.6205900333977357E-18
+Change thread number from 16 to 8
+
+clock: 7193.653583452053
+time_predict: 7796.2741132433985, BW(MBps): 67.958528, leftRAM: 40960.0
+status: -596.2741132433985
+delta_status (%): 18.76133848564943, status (%): -8.281584906158312, prev_status (%): -27.04292339180774
+action: -2.359179773804393E-19 del_n_multiplier: 0.29996397431806066 prev_action: -7.864877037876839E-19
+Change thread number from 8 to 4
+
+clock: 7193.653583452053
+time_predict: 8545.890813651878, BW(MBps): 28.773888, leftRAM: 38912.0
+status: -1345.8908136518785
+delta_status (%): -10.41134306122889, status (%): -18.692927967387202, prev_status (%): -8.281584906158312
+action: 7.072808677057105E-20 del_n_multiplier: -0.2997994792762891 prev_action: -2.359179773804393E-19
+Change thread number from 4 to 8
+
+clock: 7193.653583452053
+time_predict: 7705.866033774696, BW(MBps): 67.958528, leftRAM: 34816.0
+status: -505.866033774696
+delta_status (%): 11.667010831627536, status (%): -7.025917135759666, prev_status (%): -18.692927967387202
+action: 2.1146970852163585E-20 del_n_multiplier: 0.2989897198938872 prev_action: 7.072808677057105E-20
+Change thread number from 8 to 16
+
+clock: 7193.653583452053
+time_predict: 8347.916297536387, BW(MBps): 23.063808, leftRAM: 26624.0
+status: -1147.916297536387
+delta_status (%): -8.91736477446793, status (%): -15.943281910227597, prev_status (%): -7.025917135759666
+action: -6.332442393075306E-21 del_n_multiplier: -0.2994491474615818 prev_action: 2.1146970852163585E-20
+Change thread number from 16 to 8
+
+clock: 7193.653583452053
+time_predict: 7525.049874837293, BW(MBps): 67.958528, leftRAM: 22528.0
+status: -325.0498748372929
+delta_status (%): 11.428700315265196, status (%): -4.514581594962402, prev_status (%): -15.943281910227597
+action: -1.880199587449497E-21 del_n_multiplier: 0.2969153875770817 prev_action: -6.332442393075306E-21
+Change thread number from 8 to 4
+
+clock: 7193.653583452053
+time_predict: 7905.310020399329, BW(MBps): 28.773888, leftRAM: 20480.0
+status: -705.310020399329
+delta_status (%): -5.281390910583835, status (%): -9.795972505546237, prev_status (%): -4.514581594962402
+action: 5.473863464894784E-22 del_n_multiplier: -0.29113204265298853 prev_action: -1.880199587449497E-21
+Change thread number from 4 to 8
+
+clock: 7193.653583452053
+time_predict: 7434.6417953685905, BW(MBps): 67.958528, leftRAM: 16384.0
+status: -234.64179536859046
+delta_status (%): 6.53705868098248, status (%): -3.2589138245637566, prev_status (%): -9.795972505546237
+action: 1.4592054915002495E-22 del_n_multiplier: 0.26657688867442325 prev_action: 5.473863464894784E-22
+Change thread number from 8 to 16
+
+clock: 7193.653583452053
+time_predict: 7548.742110862617, BW(MBps): 23.063808, leftRAM: 8192.0
+status: -348.74211086261676
+delta_status (%): -1.5847266040836985, status (%): -4.843640428647455, prev_status (%): -3.2589138245637566
+action: -2.4495985468207802E-23 del_n_multiplier: -0.16787207566648343 prev_action: 1.4592054915002495E-22
+Change thread number from 16 to 8
+
+clock: 7193.653583452053
+time_predict: 7253.825636431187, BW(MBps): 67.958528, leftRAM: 4096.0
+status: -53.82563643118738
+delta_status (%): 4.096062144880964, status (%): -0.7475782837664914, prev_status (%): -4.843640428647455
+action: -3.27500703103105E-24 del_n_multiplier: 0.1336956635315419 prev_action: -2.4495985468207802E-23
+Change thread number from 8 to 4
+
+clock: 7193.653583452053
+time_predict: 7264.72922714678, BW(MBps): 28.773888, leftRAM: 2048.0
+status: -64.72922714678043
+delta_status (%): -0.1514387599387924, status (%): -0.8990170437052838, prev_status (%): -0.7475782837664914
+action: 1.8380273339363603E-32 del_n_multiplier: -5.612285153957992E-9 prev_action: -3.27500703103105E-24
+Change thread number from 4 to 8
+
+

@@ -1,0 +1,1038 @@
+
+0.1 Source DC: Recieved a migration starting message from Broker
+Starting the migration with vm amount: 600
+
+0.1 Broker: Received all queue message from Source DC at 0.1
+Amount of VM in a waiting queue: 600
+	VM has done the migration
+VM id: 197 allocated into Destination DC's host
+	VM has done the migration
+VM id: 146 allocated into Destination DC's host
+	VM has done the migration
+VM id: 144 allocated into Destination DC's host
+	VM has done the migration
+VM id: 28 allocated into Destination DC's host
+	VM has done the migration
+VM id: 14 allocated into Destination DC's host
+	VM has done the migration
+VM id: 150 allocated into Destination DC's host
+	VM has done the migration
+VM id: 81 allocated into Destination DC's host
+	VM has done the migration
+VM id: 106 allocated into Destination DC's host
+	VM has done the migration
+VM id: 110 allocated into Destination DC's host
+	VM has done the migration
+VM id: 153 allocated into Destination DC's host
+	VM has done the migration
+VM id: 131 allocated into Destination DC's host
+	VM has done the migration
+VM id: 10 allocated into Destination DC's host
+	VM has done the migration
+VM id: 127 allocated into Destination DC's host
+	VM has done the migration
+VM id: 115 allocated into Destination DC's host
+	VM has done the migration
+VM id: 116 allocated into Destination DC's host
+	VM has done the migration
+VM id: 136 allocated into Destination DC's host
+	VM has done the migration
+VM id: 104 allocated into Destination DC's host
+	VM has done the migration
+VM id: 60 allocated into Destination DC's host
+	VM has done the migration
+VM id: 41 allocated into Destination DC's host
+	VM has done the migration
+VM id: 82 allocated into Destination DC's host
+	VM has done the migration
+VM id: 93 allocated into Destination DC's host
+	VM has done the migration
+VM id: 96 allocated into Destination DC's host
+	VM has done the migration
+VM id: 141 allocated into Destination DC's host
+	VM has done the migration
+VM id: 4 allocated into Destination DC's host
+	VM has done the migration
+VM id: 188 allocated into Destination DC's host
+	VM has done the migration
+VM id: 111 allocated into Destination DC's host
+	VM has done the migration
+VM id: 155 allocated into Destination DC's host
+	VM has done the migration
+VM id: 48 allocated into Destination DC's host
+	VM has done the migration
+VM id: 133 allocated into Destination DC's host
+	VM has done the migration
+VM id: 99 allocated into Destination DC's host
+	VM has done the migration
+VM id: 62 allocated into Destination DC's host
+	VM has done the migration
+VM id: 198 allocated into Destination DC's host
+	VM has done the migration
+VM id: 172 allocated into Destination DC's host
+	VM has done the migration
+VM id: 25 allocated into Destination DC's host
+	VM has done the migration
+VM id: 128 allocated into Destination DC's host
+	VM has done the migration
+VM id: 149 allocated into Destination DC's host
+	VM has done the migration
+VM id: 89 allocated into Destination DC's host
+	VM has done the migration
+VM id: 112 allocated into Destination DC's host
+	VM has done the migration
+VM id: 66 allocated into Destination DC's host
+	VM has done the migration
+VM id: 195 allocated into Destination DC's host
+	VM has done the migration
+VM id: 132 allocated into Destination DC's host
+	VM has done the migration
+VM id: 42 allocated into Destination DC's host
+	VM has done the migration
+VM id: 50 allocated into Destination DC's host
+	VM has done the migration
+VM id: 177 allocated into Destination DC's host
+	VM has done the migration
+VM id: 189 allocated into Destination DC's host
+	VM has done the migration
+VM id: 180 allocated into Destination DC's host
+	VM has done the migration
+VM id: 36 allocated into Destination DC's host
+	VM has done the migration
+VM id: 2 allocated into Destination DC's host
+	VM has done the migration
+VM id: 0 allocated into Destination DC's host
+	VM has done the migration
+VM id: 151 allocated into Destination DC's host
+	VM has done the migration
+VM id: 174 allocated into Destination DC's host
+	VM has done the migration
+VM id: 137 allocated into Destination DC's host
+	VM has done the migration
+VM id: 7 allocated into Destination DC's host
+	VM has done the migration
+VM id: 58 allocated into Destination DC's host
+	VM has done the migration
+VM id: 157 allocated into Destination DC's host
+	VM has done the migration
+VM id: 135 allocated into Destination DC's host
+	VM has done the migration
+VM id: 103 allocated into Destination DC's host
+	VM has done the migration
+VM id: 55 allocated into Destination DC's host
+	VM has done the migration
+VM id: 122 allocated into Destination DC's host
+	VM has done the migration
+VM id: 6 allocated into Destination DC's host
+	VM has done the migration
+VM id: 171 allocated into Destination DC's host
+	VM has done the migration
+VM id: 173 allocated into Destination DC's host
+	VM has done the migration
+VM id: 46 allocated into Destination DC's host
+	VM has done the migration
+VM id: 68 allocated into Destination DC's host
+	VM has done the migration
+VM id: 169 allocated into Destination DC's host
+	VM has done the migration
+VM id: 21 allocated into Destination DC's host
+	VM has done the migration
+VM id: 17 allocated into Destination DC's host
+	VM has done the migration
+VM id: 92 allocated into Destination DC's host
+	VM has done the migration
+VM id: 87 allocated into Destination DC's host
+	VM has done the migration
+VM id: 79 allocated into Destination DC's host
+	VM has done the migration
+VM id: 18 allocated into Destination DC's host
+	VM has done the migration
+VM id: 72 allocated into Destination DC's host
+	VM has done the migration
+VM id: 91 allocated into Destination DC's host
+	VM has done the migration
+VM id: 69 allocated into Destination DC's host
+	VM has done the migration
+VM id: 105 allocated into Destination DC's host
+	VM has done the migration
+VM id: 94 allocated into Destination DC's host
+	VM has done the migration
+VM id: 34 allocated into Destination DC's host
+	VM has done the migration
+VM id: 49 allocated into Destination DC's host
+	VM has done the migration
+VM id: 63 allocated into Destination DC's host
+	VM has done the migration
+VM id: 80 allocated into Destination DC's host
+	VM has done the migration
+VM id: 191 allocated into Destination DC's host
+	VM has done the migration
+VM id: 165 allocated into Destination DC's host
+	VM has done the migration
+VM id: 78 allocated into Destination DC's host
+	VM has done the migration
+VM id: 118 allocated into Destination DC's host
+	VM has done the migration
+VM id: 134 allocated into Destination DC's host
+	VM has done the migration
+VM id: 27 allocated into Destination DC's host
+	VM has done the migration
+VM id: 20 allocated into Destination DC's host
+	VM has done the migration
+VM id: 125 allocated into Destination DC's host
+	VM has done the migration
+VM id: 73 allocated into Destination DC's host
+	VM has done the migration
+VM id: 145 allocated into Destination DC's host
+	VM has done the migration
+VM id: 13 allocated into Destination DC's host
+	VM has done the migration
+VM id: 65 allocated into Destination DC's host
+	VM has done the migration
+VM id: 22 allocated into Destination DC's host
+	VM has done the migration
+VM id: 83 allocated into Destination DC's host
+	VM has done the migration
+VM id: 67 allocated into Destination DC's host
+	VM has done the migration
+VM id: 158 allocated into Destination DC's host
+	VM has done the migration
+VM id: 183 allocated into Destination DC's host
+	VM has done the migration
+VM id: 113 allocated into Destination DC's host
+	VM has done the migration
+VM id: 29 allocated into Destination DC's host
+	VM has done the migration
+VM id: 15 allocated into Destination DC's host
+	VM has done the migration
+VM id: 162 allocated into Destination DC's host
+	VM has done the migration
+VM id: 139 allocated into Destination DC's host
+	VM has done the migration
+VM id: 56 allocated into Destination DC's host
+	VM has done the migration
+VM id: 5 allocated into Destination DC's host
+	VM has done the migration
+VM id: 39 allocated into Destination DC's host
+	VM has done the migration
+VM id: 176 allocated into Destination DC's host
+	VM has done the migration
+VM id: 114 allocated into Destination DC's host
+	VM has done the migration
+VM id: 9 allocated into Destination DC's host
+	VM has done the migration
+VM id: 23 allocated into Destination DC's host
+	VM has done the migration
+VM id: 31 allocated into Destination DC's host
+	VM has done the migration
+VM id: 143 allocated into Destination DC's host
+	VM has done the migration
+VM id: 47 allocated into Destination DC's host
+	VM has done the migration
+VM id: 108 allocated into Destination DC's host
+	VM has done the migration
+VM id: 190 allocated into Destination DC's host
+	VM has done the migration
+VM id: 120 allocated into Destination DC's host
+	VM has done the migration
+VM id: 130 allocated into Destination DC's host
+	VM has done the migration
+VM id: 187 allocated into Destination DC's host
+	VM has done the migration
+VM id: 182 allocated into Destination DC's host
+	VM has done the migration
+VM id: 85 allocated into Destination DC's host
+	VM has done the migration
+VM id: 12 allocated into Destination DC's host
+	VM has done the migration
+VM id: 181 allocated into Destination DC's host
+	VM has done the migration
+VM id: 119 allocated into Destination DC's host
+	VM has done the migration
+VM id: 33 allocated into Destination DC's host
+	VM has done the migration
+VM id: 100 allocated into Destination DC's host
+Broker1 is shutting down...
+VmigSim finished!
+
+Migrated VM details ::
+	VM: 197 finished the migration with the time 1714.006599152065 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 226.72204435268853 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 146 finished the migration with the time 1743.3509599976455 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 215.7012793831312 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 144 finished the migration with the time 1750.8195256441907 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 232.94108733038124 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 28 finished the migration with the time 1801.5427034794384 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 271.5511825978218 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 14 finished the migration with the time 1882.6270911507322 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 231.91847513243545 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 150 finished the migration with the time 1897.015829503556 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 246.54331948362733 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 81 finished the migration with the time 1904.0749828616747 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 217.0054949720621 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 106 finished the migration with the time 1944.9008216262175 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 233.78475755451294 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 110 finished the migration with the time 1951.6284663558004 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 249.32442073474604 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 153 finished the migration with the time 1977.2208260098655 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 228.06827054420958 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 131 finished the migration with the time 1977.3868639766977 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 275.7490071753413 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 10 finished the migration with the time 2021.821857011156 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 238.27228883533013 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 127 finished the migration with the time 2047.6028726996237 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 225.5145495303388 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 115 finished the migration with the time 2074.2951905130735 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 237.57875412700756 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 116 finished the migration with the time 2092.658097946682 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 271.83656747742646 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 136 finished the migration with the time 2191.5127349257086 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 194.21053413149878 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 104 finished the migration with the time 2195.8216949601865 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 270.8770857268835 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 60 finished the migration with the time 2287.723440070862 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 198.78410424794052 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 41 finished the migration with the time 2302.1730789393014 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 257.1509613245838 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 82 finished the migration with the time 2310.8590561747997 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 249.70857526864782 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 93 finished the migration with the time 2314.8802228569402 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 219.74593305931535 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 96 finished the migration with the time 2505.306238496459 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 244.55326493931952 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 141 finished the migration with the time 2518.4326695649333 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 242.61467943019395 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 4 finished the migration with the time 2624.947686413848 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 211.75035784648867 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 188 finished the migration with the time 2631.26853360739 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 271.8541335065848 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 111 finished the migration with the time 2715.307525223513 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 223.3367776572703 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 155 finished the migration with the time 2744.83595316106 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 241.4788011759859 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 48 finished the migration with the time 2780.0274028352105 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 219.78711505446003 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 133 finished the migration with the time 2787.8844286227345 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 261.5485572441249 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 99 finished the migration with the time 2802.477137931862 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 226.4489502859759 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 62 finished the migration with the time 2804.796745568715 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 229.49423670092176 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 198 finished the migration with the time 2818.0450027886827 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 265.5495384635766 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 172 finished the migration with the time 2869.946004793165 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 206.9429899105935 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 25 finished the migration with the time 2880.003778398068 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 243.45697168111803 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 128 finished the migration with the time 2933.5472973385854 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 243.91557107364923 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 149 finished the migration with the time 3097.102634062436 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 240.90208698028857 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 89 finished the migration with the time 3130.321132560419 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 242.5927432019699 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 112 finished the migration with the time 3135.145614072665 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 241.29919378461557 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 66 finished the migration with the time 3156.738695949857 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 227.77169625975856 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 195 finished the migration with the time 3187.478537023121 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 224.41442912799855 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 132 finished the migration with the time 3189.4966016413696 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 231.48677269228682 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 42 finished the migration with the time 3235.41716071219 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 237.1065663918878 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 50 finished the migration with the time 3266.266747057753 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 271.68287979378084 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 177 finished the migration with the time 3280.520694490793 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 189.82356746636498 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 189 finished the migration with the time 3318.8783358780092 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 177.67105743582428 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 180 finished the migration with the time 3352.428582996156 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 251.0316911512286 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 36 finished the migration with the time 1744.4691497821743 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 202.62582730543687 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 2 finished the migration with the time 3514.1587208212895 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 244.18461233939516 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 0 finished the migration with the time 3609.054397560099 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 192.8115027062021 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 151 finished the migration with the time 3615.9823031723395 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 138.833694392371 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 174 finished the migration with the time 3626.9898297720024 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 155.84971498788596 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 137 finished the migration with the time 1773.4305295052397 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 112.80077168699364 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 7 finished the migration with the time 1788.1999262647792 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 132.32573778715775 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 58 finished the migration with the time 3742.839611455727 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 139.92469017198812 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 157 finished the migration with the time 3782.4899169324626 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 166.6041204309861 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 135 finished the migration with the time 1662.1515162825908 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 218.9598987357916 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 103 finished the migration with the time 1886.921339726873 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 195.93157266220757 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 55 finished the migration with the time 2073.049437145413 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 224.74650321331853 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 122 finished the migration with the time 2103.6057102120835 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 208.45600032811788 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 6 finished the migration with the time 1976.6801087569531 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 227.3123548847514 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 171 finished the migration with the time 1689.1272181475472 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 207.50216755290143 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 173 finished the migration with the time 1941.0756584849044 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 226.84044687549834 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 46 finished the migration with the time 4113.570820558046 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 212.77129720448036 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 68 finished the migration with the time 1844.9890842786601 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 265.4151076277092 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 169 finished the migration with the time 4201.9508211117945 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 226.81988480706653 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 21 finished the migration with the time 4221.56331834737 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 209.95477876583612 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 17 finished the migration with the time 2521.9009122835396 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 215.52302614855566 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 92 finished the migration with the time 4289.903699724828 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 251.48994240112813 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 87 finished the migration with the time 2253.7204895019036 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 236.14289045931042 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 79 finished the migration with the time 1544.2651217965572 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 199.2106559762792 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 18 finished the migration with the time 1834.9351176396628 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 226.65471786203074 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 72 finished the migration with the time 4588.3628772111815 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 241.56484445063577 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 91 finished the migration with the time 4625.144093438446 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 222.08449151877218 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 69 finished the migration with the time 2945.747557516043 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 267.2618950556017 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 105 finished the migration with the time 2799.577395289602 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 235.12673394852035 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 94 finished the migration with the time 1648.4367731382101 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 241.6856679817467 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 34 finished the migration with the time 2176.7938151417106 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 236.03248094320273 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 49 finished the migration with the time 2794.475465407061 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 233.87869460211743 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 63 finished the migration with the time 2742.6320871709463 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 255.53647985060962 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 80 finished the migration with the time 1750.5744700421685 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 238.0784932278738 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 191 finished the migration with the time 2552.5155363833856 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 228.53527707729722 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 165 finished the migration with the time 3133.321669828947 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 255.38185450643164 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 78 finished the migration with the time 2623.4580088656758 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 237.3595973475118 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 118 finished the migration with the time 2506.181212251436 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 210.3962622732155 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 134 finished the migration with the time 3659.961718504982 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 282.89386781173584 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 27 finished the migration with the time 2312.356457641288 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 224.9590068764806 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 20 finished the migration with the time 2716.209805221036 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 303.1502467172905 seconds
+		QoS = 300 seconds / violate = true
+		Migration result = true
+	VM: 125 finished the migration with the time 2754.5718914485374 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 243.16825948058025 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 73 finished the migration with the time 5657.253585500647 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 221.25907262445506 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 145 finished the migration with the time 2477.45362782502 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 279.6725705625298 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 13 finished the migration with the time 2055.963692083877 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 225.63372343484275 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 65 finished the migration with the time 2233.601312946321 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 225.63912826876677 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 22 finished the migration with the time 2024.5779284687196 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 237.43454933763576 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 83 finished the migration with the time 1798.7003077056793 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 207.92921684755234 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 67 finished the migration with the time 2561.9477716812944 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 233.9502454870929 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 158 finished the migration with the time 2222.8438942463126 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 241.3997694650541 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 183 finished the migration with the time 1962.3973608875945 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 231.23864490946107 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 113 finished the migration with the time 2466.1924893615615 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 234.92532799330854 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 29 finished the migration with the time 2168.167134910725 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 249.04656835191884 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 15 finished the migration with the time 3510.6643544705157 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 244.39340576727025 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 162 finished the migration with the time 1988.1286692227145 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 260.69539671008096 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 139 finished the migration with the time 1912.4726735402733 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 236.7262472004885 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 56 finished the migration with the time 3658.787309980724 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 244.92894634604363 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 5 finished the migration with the time 1785.2806998611686 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 219.92784837484345 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 39 finished the migration with the time 2252.0204627344883 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 235.25410998970867 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 176 finished the migration with the time 2633.119297809024 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 243.6763714557148 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 114 finished the migration with the time 1724.7889278800594 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 205.05354540973354 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 9 finished the migration with the time 2452.998682055496 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 234.94151607161632 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 23 finished the migration with the time 3198.7885724455305 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 195.67963191868432 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 31 finished the migration with the time 3111.1545733635967 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 215.15474338388995 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 143 finished the migration with the time 2136.4171822866842 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 204.96173354976685 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 47 finished the migration with the time 3649.2455547272007 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 241.8947413802144 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 108 finished the migration with the time 3425.8644459048055 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 184.1077317446467 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 190 finished the migration with the time 2542.8160176957526 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 200.77084681822294 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 120 finished the migration with the time 6580.038895427741 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 193.11760178822576 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 130 finished the migration with the time 2585.9028478149307 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 215.00357643609803 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 187 finished the migration with the time 6652.248140285434 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 213.4160679081992 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 182 finished the migration with the time 6671.9529446417655 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 259.3837183768439 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 85 finished the migration with the time 2395.937583470856 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 254.1073014085486 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 12 finished the migration with the time 2006.5515353579174 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 267.49633054932946 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 181 finished the migration with the time 2414.574442664035 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 217.17061548101677 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 119 finished the migration with the time 3347.8885055464348 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 260.22099086836135 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 33 finished the migration with the time 4220.041882614361 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 264.7538226420528 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+	VM: 100 finished the migration with the time 5058.780733764189 seconds
+		RAM = 512 MB
+		Priority = 1
+		Downtime = 241.96475240858777 seconds
+		QoS = 300 seconds / violate = false
+		Migration result = true
+
+Overall details ::
+	Total migrated VM = 124 / 600
+	Total migrated VM in each priority: 
+		Priority 1 = 124 / 200
+		Priority 2 = 0 / 200
+		Priority 3 = 0 / 200
+	Total violated VM = 1 / 600
+	Total violated VM in each priority: 
+		Priority 1 = 1 / 200
+		Priority 2 = 0 / 200
+		Priority 3 = 0 / 200
+	Avg excess downtime percentage = 0.001750137065161381%
+	Avg excess downtime percentage in each priority: 
+		Priority 1 = 0.005250411195484143%
+		Priority 2 = 0.0%
+		Priority 3 = 0.0%
+	Total migration time = 7185.552334447753 (Avg. = 2753.092368483824) secs
+	Total down time = 28401.219804500022 (Avg. = 229.04209519758084) secs
+
+Environment details ::
+	Thread number = 64
+	Recorded bandwidth trace = true
+		Trace file name = run_simulation/closed-loop/bandwidth-64t.txt
+		Network interval = 1.0
+	Time limit = 7200.0 secs
+	Schedule type = priority
+	Migration type = precopy
+		WWS page percentage = 1.0%
+		WWS dirty rate = 90.0%
+		Normal dirty rate = 20.0%
+		Max pre-copy iteration = 30
+		Min dirty page = 50
+		Max no-progress round = 2
+	Control type = openloop
+
