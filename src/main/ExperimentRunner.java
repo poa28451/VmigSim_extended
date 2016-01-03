@@ -19,7 +19,7 @@ public class ExperimentRunner {
 	
 	private static String inDir = "experiment input files/";
 	private static String inName = "5-parallel-closed-off-fifo.json";
-	private static String outDir = "output2/";
+	private static String outDir = "output3/";
 	private static String outName = inName.substring(0, inName.indexOf(".json"));
 	
 	private static String input = inDir + inName;

@@ -143,6 +143,7 @@ public class ControllerThread extends Thread{
 		msg.setMigrationTime(transferTime);
 		vm.updateMigrationTime(transferTime);
 		vm.updateTransferredSize(sentSize);
+		
 		vmMsg.setLastMigrationMsg(false);
 		vm.setDowntime(transferTime);
 	}
@@ -165,6 +166,10 @@ public class ControllerThread extends Thread{
 	
 	public SimEntity getDestEntity(){
 		return destEnt;
+	}
+	
+	public MigrationMessage getVmMsg(){
+		return vmMsg;
 	}
 	
 	public CountDownLatch getLock(){

@@ -15,6 +15,7 @@ import variable.Environment;
 
 public class Controller {
 	private ArrayList<MigrationMessage> vmQueue;
+	private ArrayList<MigrationMessage> undoneVmList;
 	private ArrayList<ControllerThread> workerList;
 	private CountDownLatch threadLocker;
 	private double highestMigTime;
@@ -33,35 +34,51 @@ public class Controller {
 		if(Environment.controlType == Constant.CLOSED_LOOP){
 			fuzzy = new FuzzyLogic();
 		}
+		
+		undoneVmList = new ArrayList<MigrationMessage>();
 	}
 	
 	public void startControlling(){
 		ControllerThread freeWorker;
 		boolean isDone = false;
-		int round = 0;
+		int assignedToThread = 0;
 		try {
-			for(MigrationMessage migration : vmQueue){
+			MigrationMessage migration;
+			for(int i=0; i<vmQueue.size(); i++){
+				//If there's no pending VM in the undone list, pick from the sending queue.
+				if(undoneVmList.isEmpty()){
+					migration = vmQueue.get(i);
+				}
+				else{
+					//Else, pick from the undone list.
+					migration = undoneVmList.remove(0);
+					//Remain the index of the sending queue
+					i--;
+				}
+				//migration = selectVmFromQueue(i);
 				do{
 					freeWorker = findFreeThread();
 				} while(freeWorker == null);
 				
-				//freeWorker = findFreeThread();				
+				//Set the VM to the thread and start calculating				
 				freeWorker.setData(migration);
 				freeWorker.start();
-				round++;
+				assignedToThread++;
 				
-				//If every VM is assigned to thread, start the job.
-				if(round == threadNum){
-					//Wait for all thread to get its job done.
+				//If every VM is assigned to thread, start the controlling method.
+				if(assignedToThread == threadNum){
 					control(isDone);
-					round = 0;
+					//Every thread is done running, reset the number of running job to 0.
+					assignedToThread = 0;
 				}
+				//If there're any threads that has the migration time exceeded the limitation,
+				//	stop the process of thread's job assigning.
 				if(isExceedTime){
 					break;
 				}
 			}
 			isDone = true;
-			synchroWorkerThreads(isDone);
+			synchroWorkerThreads(isDone); //Synchronize the thread for the last time.
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 			System.exit(0);
@@ -89,6 +106,15 @@ public class Controller {
 		prepareForThreadAdaption();
 		int newThreadNum = fuzzyCalculate();
 		manageThreadAdaption(newThreadNum);
+	}
+	
+	private MigrationMessage selectVmFromQueue(int sequence){
+		//If there's no pending VM in the undone list, pick from the sending queue.
+		if(undoneVmList.isEmpty()){
+			return vmQueue.get(sequence);
+		}
+		//Else, pick from the pending list.
+		return undoneVmList.remove(0);
 	}
 	
 	/**
@@ -281,7 +307,18 @@ public class Controller {
 				lowestTimeIndex = i;
 			}
 		}
-		workerList.get(lowestTimeIndex).setIsLowestTime(true);
+		
+		for(int i=0; i<workerList.size(); i++){
+			ControllerThread t = workerList.get(i);
+			if(i == lowestTimeIndex){
+				//Mark the flag to the thread that has lowest migration time.
+				t.setIsLowestTime(true);
+			}
+			else{
+				//Else, add the VM in the thread to the undone list.
+				undoneVmList.add(t.getVmMsg());
+			}
+		}
 		return lowest;
 	}
 	

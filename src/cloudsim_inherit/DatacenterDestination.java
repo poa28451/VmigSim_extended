@@ -55,15 +55,17 @@ public class DatacenterDestination extends Datacenter{
 		VmigSimVm migratedVm = message.getVm();
 		double downTime = migratedVm.getDowntime();
 		
-		System.out.println();
-		System.out.println(CloudSim.clock() + " Destination DC: Recieved migrated VM from Broker");
-		System.out.println("\tVM id: " + migratedVm.getId());
-		
-		boolean result = allocateResourceForVm(migratedVm);
-		migratedVm.setStopClock(CloudSim.clock());
-		migratedVm.setViolated(isViolateQos(migratedVm.getQos(), downTime));
-		migratedVm.setDoneMigration(result);
-		sendNow(ev.getSource(), Constant.REPORT_VM_MIGRATE, message); 
+		if(message.isLastMigrationMsg()){
+			System.out.println();
+			System.out.println(CloudSim.clock() + " Destination DC: Recieved migrated VM from Broker");
+			System.out.println("\tVM id: " + migratedVm.getId());
+			
+			boolean result = allocateResourceForVm(migratedVm);
+			migratedVm.setStopClock(CloudSim.clock());
+			migratedVm.setViolated(isViolateQos(migratedVm.getQos(), downTime));
+			migratedVm.setDoneMigration(result);
+			sendNow(ev.getSource(), Constant.REPORT_VM_MIGRATE, message); 
+		}
 	}
 	
 	protected void handlePreCopyMigration(SimEvent ev){
